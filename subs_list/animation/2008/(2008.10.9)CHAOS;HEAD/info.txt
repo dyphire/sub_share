@@ -1,0 +1,5 @@
+chs: CHAOS;HEAD
+cht: CHAOS;HEAD
+jp: CHAOS;HEAD
+en: CHAOS;HEAD
+rome: CHAOS;HEAD
