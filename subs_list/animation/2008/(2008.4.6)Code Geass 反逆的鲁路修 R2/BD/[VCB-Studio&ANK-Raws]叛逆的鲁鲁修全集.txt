@@ -1,37 +1,19 @@
-providers:
-desc:
-此版本我只改名匹配vcb的版本，以下为原版本说明
-
-
-
-***本版本只調校繁體版的時間軸***
-上传：Nox（伪射手网）
-基於[異域-11番小隊]所整合的字幕再調校時間軸
-適用於[ANK&VCB-S&philosophy-raws](雖然已有內嵌字幕)
-不確定是否能用於[VCB-Studio&ANK-Raws]和[philosophy-raws](应该可以匹配）
-
-部分OVA字幕來自其他翻譯組
-部分Picture Drama找不到字幕
-
-時間有限，未能逐句檢查
-有需要的可以自行翻成簡體
-
-
-第一季
-1-18 射手MIX版字幕，整合了KPDM+DMHY+WLGO的翻译，readme什么的我就不附了，自己去射手看吧
-19-25、SP KPDM字幕
-
-第二季_R2
-文本为漫遊字幕
-OPED歌词皆取自CASO&X2字幕
-SP5-9字幕来自射手，字幕组不明
-11-24 BD版预告是请异域字幕组的茶茶翻译的，在此致谢
-Flash 5-9 由于时间有限，加上这也是长久以来的老坑了，就先这样坑着吧
-
-SP-娜娜莉梦游仙境+奇迹的诞生日
+上周VCB-Studio&ANK-Raws发布了鲁路修的Reseed。
+[VCB-Studio&ANK-Raws] Code Geass: Lelouch of the Rebellion / 叛逆的鲁鲁修 10-bit 1080p AVC BDRip [S1+S2+OVAs+Live Reseed Fin]
+发现这版和之前205g那版一样音轨不通用，这次就全部调一下时轴。
+各个版本的字幕筛选了一下。
+第一季选用的是 漫友之家&异域动漫 的合作版字幕。
+包含正片01-25+8.5+17.5。 SP 共9话（来源于漫游）。
+这个SP适配这一版的02-10话。我没找到第一话SP的字幕。SP时轴也有1s的偏移，实在不想调了。
+第二季选用的是11番小队调整后的漫遊字幕。
+包含正片01-25。SP 01-04(来自漫游）05-09（来自射手，字幕组不明）flash 01-04。（来自漫游）
+Live&OVA
 娜娜莉梦游仙境 夕染字幕社
 奇迹的诞生日 千夜殇个人制作
-
 总集篇
-BLACK REBELLION yycdmh个人制作
-ZERO REQUIEM liwei5203@sosg@kf个人制作
+BLACK REBELLION  yycdmh个人制作
+ZERO REQUIEM  liwei5203@sosg@kf个人制作
+Live&OVA统一转化成ass格式。字幕风格大概调整为近似。
+一共78个字幕文件，全部为简体字幕。已改名适配这版新的rip。
+时间轴有差1s、2s、1.5s不等，调整了正片25+2+25的字幕时间轴。
+

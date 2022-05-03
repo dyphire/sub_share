@@ -21,8 +21,8 @@ ScaledBorderAndShadow: no
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,FZZhunYuan-M02,64,&H00FFFFFF,&H00FFFFFF,&H00FF0000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,2,0,0,10,134
-Style: ED_JP,EPSON 太丸????体Ｂ,64,&H00FFFFFF,&H00FFFFFF,&H00008000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,0,0,10,1
-Style: OP_JP,EPSON 太丸????体Ｂ,64,&H00FFFFFF,&H00FFFFFF,&H00008000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,0,0,10,1
+Style: ED_JP,EPSON 太丸ゴシック体Ｂ,64,&H00FFFFFF,&H00FFFFFF,&H00008000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,0,0,10,1
+Style: OP_JP,EPSON 太丸ゴシック体Ｂ,64,&H00FFFFFF,&H00FFFFFF,&H00008000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,0,0,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text

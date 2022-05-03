@@ -1,0 +1,44 @@
+﻿// 字幕路径
+subs_path: ../subs_list
+
+// 最后更新数据库的时间
+last_updata_db_time: 0001/1/1 0:00:00
+
+// 窗口大小
+window.width: 0
+window.height: 0
+
+// 窗口位置
+window.x: -1
+window.y: -1
+
+// 数据网格的样式（width = 宽度、idx = 显示顺序索引）
+column.name_chs.width: 143
+column.name_cht.width: 100
+column.name_jp.width: 100
+column.name_en.width: 100
+column.name_rome.width: 100
+
+column.time.width: 100
+column.type.width: 100
+column.source.width: 100
+column.sub_name.width: 100
+column.extension.width: 100
+column.providers.width: 100
+column.desc.width: 100
+column.path.width: 100
+
+column.name_chs.idx: -1
+column.name_cht.idx: -1
+column.name_jp.idx: -1
+column.name_en.idx: -1
+column.name_rome.idx: -1
+
+column.time.idx: -1
+column.type.idx: -1
+column.source.idx: -1
+column.sub_name.idx: -1
+column.extension.idx: -1
+column.providers.idx: -1
+column.desc.idx: -1
+column.path.idx: -1
