@@ -31,6 +31,36 @@
     <path>animation/1971/(1971.10.24)鲁邦三世 第一期</path>
   </subs>
   <subs>
+    <name_chs>魔神Z/铁甲万能侠</name_chs>
+    <name_cht>魔神Z/無敵鐵金剛</name_cht>
+    <name_jp>マジンガーZ</name_jp>
+    <name_en>Mazinger Z</name_en>
+    <name_rome>Mazinger Z</name_rome>
+    <time>1972-12-03T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>字幕</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/1972/(1972.12.03)魔神Z</path>
+  </subs>
+  <subs>
+    <name_chs>阿尔卑斯山的少女/海蒂/飘零燕/小天使</name_chs>
+    <name_cht>阿爾卑斯山的少女/海蒂</name_cht>
+    <name_jp>アルプスの少女ハイジ</name_jp>
+    <name_en>Alps no Shoujo Heidi</name_en>
+    <name_rome>Alps no Shoujo Heidi</name_rome>
+    <time>1974-01-06T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>sub</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/1974/(1974.1.6)阿尔卑斯山的少女</path>
+  </subs>
+  <subs>
     <name_chs>银河铁道999 剧场版</name_chs>
     <name_cht>銀河鉄道999 劇場版</name_cht>
     <name_jp>銀河鉄道999 映画版</name_jp>
@@ -236,66 +266,6 @@
     <source>DVD</source>
     <sub_name>龙珠Z</sub_name>
     <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/1986/(1986.2.26)龙珠</path>
-  </subs>
-  <subs>
-    <name_chs>龙珠/七龙珠</name_chs>
-    <name_cht>龍珠/七龍珠</name_cht>
-    <name_jp>ドラゴンボール</name_jp>
-    <name_en>Dragon Ball</name_en>
-    <name_rome>Dragon Ball</name_rome>
-    <time>1986-02-26T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>Dragon Ball Z.1-291FIN.DVDRip.480P 字幕文件修改版</sub_name>
-    <extension>.ssa</extension>
-    <providers />
-    <desc />
-    <path>animation/1986/(1986.2.26)龙珠</path>
-  </subs>
-  <subs>
-    <name_chs>龙珠/七龙珠</name_chs>
-    <name_cht>龍珠/七龍珠</name_cht>
-    <name_jp>ドラゴンボール</name_jp>
-    <name_en>Dragon Ball</name_en>
-    <name_rome>Dragon Ball</name_rome>
-    <time>1986-02-26T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[DMHY]</sub_name>
-    <extension>.ssa</extension>
-    <providers />
-    <desc />
-    <path>animation/1986/(1986.2.26)龙珠</path>
-  </subs>
-  <subs>
-    <name_chs>龙珠/七龙珠</name_chs>
-    <name_cht>龍珠/七龍珠</name_cht>
-    <name_jp>ドラゴンボール</name_jp>
-    <name_en>Dragon Ball</name_en>
-    <name_rome>Dragon Ball</name_rome>
-    <time>1986-02-26T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[DMHY][RAW][Dragon_Ball][SC]</sub_name>
-    <extension>.ssa</extension>
-    <providers />
-    <desc />
-    <path>animation/1986/(1986.2.26)龙珠</path>
-  </subs>
-  <subs>
-    <name_chs>龙珠/七龙珠</name_chs>
-    <name_cht>龍珠/七龍珠</name_cht>
-    <name_jp>ドラゴンボール</name_jp>
-    <name_en>Dragon Ball</name_en>
-    <name_rome>Dragon Ball</name_rome>
-    <time>1986-02-26T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[Dragon_Ball_GT][1-64&amp;SP][v2]</sub_name>
-    <extension />
     <providers />
     <desc />
     <path>animation/1986/(1986.2.26)龙珠</path>
@@ -699,8 +669,23 @@
     <time>1991-09-14T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>Roujin Z</sub_name>
-    <extension>.ssa</extension>
+    <sub_name>分集版</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/1991/(1991.9.14)老人Z</path>
+  </subs>
+  <subs>
+    <name_chs>老人Z</name_chs>
+    <name_cht>老人Z</name_cht>
+    <name_jp>老人Z</name_jp>
+    <name_en>ROU JIN Z</name_en>
+    <name_rome>ROUJIN-Z</name_rome>
+    <time>1991-09-14T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>合并版</sub_name>
+    <extension>.ass</extension>
     <providers />
     <desc />
     <path>animation/1991/(1991.9.14)老人Z</path>
@@ -961,6 +946,51 @@
     <path>animation/1994/(1994.8.25)超时空要塞Plus</path>
   </subs>
   <subs>
+    <name_chs>忍空</name_chs>
+    <name_cht>忍空</name_cht>
+    <name_jp>NINKŪ</name_jp>
+    <name_en>Ninku</name_en>
+    <name_rome>Ninku</name_rome>
+    <time>1995-01-14T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>MOIVE</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/1995/(1995.1.14)忍空</path>
+  </subs>
+  <subs>
+    <name_chs>忍空</name_chs>
+    <name_cht>忍空</name_cht>
+    <name_jp>NINKŪ</name_jp>
+    <name_en>Ninku</name_en>
+    <name_rome>Ninku</name_rome>
+    <time>1995-01-14T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>OVA</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/1995/(1995.1.14)忍空</path>
+  </subs>
+  <subs>
+    <name_chs>忍空</name_chs>
+    <name_cht>忍空</name_cht>
+    <name_jp>NINKŪ</name_jp>
+    <name_en>Ninku</name_en>
+    <name_rome>Ninku</name_rome>
+    <time>1995-01-14T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>TV</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/1995/(1995.1.14)忍空</path>
+  </subs>
+  <subs>
     <name_chs>怪盗圣少女</name_chs>
     <name_cht>怪盜聖少女</name_cht>
     <name_jp>怪盗 セイント・テール</name_jp>
@@ -1094,6 +1124,21 @@
     <providers />
     <desc />
     <path>animation/1996/(1996.1.10)浪客剑心</path>
+  </subs>
+  <subs>
+    <name_chs>地狱老师</name_chs>
+    <name_cht>地獄老師</name_cht>
+    <name_jp>地獄先生ぬ～べ～</name_jp>
+    <name_en>Jigoku Sensei Nube</name_en>
+    <name_rome>Jigoku Sensei Nube</name_rome>
+    <time>1996-04-13T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[地狱老师][BDRIP][1080P][TV 1-49 Fin+Moviex3+OVAx3+SP][ASS]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/1996/(1996.4.13)地狱老师</path>
   </subs>
   <subs>
     <name_chs>铁腕巴迪</name_chs>
@@ -1569,21 +1614,6 @@
     <time>1998-04-07T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>Card_Captor_Sakura_BD_Simu(Subtitle)</sub_name>
-    <extension>.smi</extension>
-    <providers />
-    <desc />
-    <path>animation/1998/(1998.4.7)魔卡少女樱</path>
-  </subs>
-  <subs>
-    <name_chs>魔卡少女樱/百变小樱</name_chs>
-    <name_cht>魔卡少女櫻/百變小櫻</name_cht>
-    <name_jp>カードキャプターさくら</name_jp>
-    <name_en>Cardcaptor Sakura</name_en>
-    <name_rome>Cardcaptor Sakura</name_rome>
-    <time>1998-04-07T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>BD</source>
     <sub_name>[异域-11番小队][魔卡少女樱Cardcaptor Sakura][BDRIP][960X720][x264_AAC]</sub_name>
     <extension>.ssa</extension>
     <providers />
@@ -1784,21 +1814,6 @@
     <providers />
     <desc />
     <path>animation/1999/(1999.7.17)我的邻居山田君</path>
-  </subs>
-  <subs>
-    <name_chs>魔卡少女樱/百变小樱 剧场版：香港篇</name_chs>
-    <name_cht>魔卡少女櫻/百變小櫻 劇場版：香港篇</name_cht>
-    <name_jp>劇場版カードキャプターさくら</name_jp>
-    <name_en>Gekijouban Cardcaptor Sakura 1 - Die Reise nach Hongkong</name_en>
-    <name_rome>Gekijouban Cardcaptor Sakura 1 - Die Reise nach Hongkong</name_rome>
-    <time>1999-08-21T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>BD</source>
-    <sub_name>Card_Captor_Sakura_BD_Simu(Subtitle)</sub_name>
-    <extension>.smi</extension>
-    <providers />
-    <desc />
-    <path>animation/1999/(1999.8.21)百变小樱剧场版：香港篇</path>
   </subs>
   <subs>
     <name_chs>魔卡少女樱/百变小樱 剧场版：香港篇</name_chs>
@@ -2049,21 +2064,6 @@
     <time>2000-07-15T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>Card_Captor_Sakura_BD_Simu(Subtitle)</sub_name>
-    <extension>.smi</extension>
-    <providers />
-    <desc />
-    <path>animation/2000/(2000.7.15)百变小樱 剧场版：被封印的卡片</path>
-  </subs>
-  <subs>
-    <name_chs>魔卡少女樱/百变小樱 剧场版：被封印的卡片</name_chs>
-    <name_cht>魔卡少女櫻/百變小櫻 劇場版：被封印的卡片</name_cht>
-    <name_jp>劇場版カードキャプターさくら 封印されたカード</name_jp>
-    <name_en>Gekijouban Cardcaptor Sakura 2 - Fuuin Sareta Card</name_en>
-    <name_rome>Gekijouban Cardcaptor Sakura 2 - Fuuin Sareta Card</name_rome>
-    <time>2000-07-15T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>BD</source>
     <sub_name>[异域-11番小队][魔卡少女樱Cardcaptor Sakura][BDRIP][960X720][x264_AAC]</sub_name>
     <extension>.ass</extension>
     <providers />
@@ -2200,7 +2200,7 @@
     <type>animation</type>
     <source>BD</source>
     <sub_name>LITEN繁中11队修改版（含特典两声优访谈字幕）LITEN繁中11队修改版（含特典两声优访谈字幕）</sub_name>
-    <extension>.ass;.ssa</extension>
+    <extension>.ass</extension>
     <providers />
     <desc />
     <path>animation/2001/(2001.4.1)天使领域</path>
@@ -3016,21 +3016,6 @@
     <path>animation/2003/(2003.10.4)钢之炼金术师</path>
   </subs>
   <subs>
-    <name_chs>银河铁道物语</name_chs>
-    <name_cht>銀河鐵道物語</name_cht>
-    <name_jp>銀河鉄道物語</name_jp>
-    <name_en>The Galaxy Railways</name_en>
-    <name_rome>Ginga Tetsudō Monogatari</name_rome>
-    <time>2003-10-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>DVD</source>
-    <sub_name>英文字幕</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2003/(2003.10.4)银河铁道物语</path>
-  </subs>
-  <subs>
     <name_chs>神枪少女</name_chs>
     <name_cht>神槍少女</name_cht>
     <name_jp>GUNSLINGER GIRL/ガンスリンガー・ガール</name_jp>
@@ -3164,6 +3149,21 @@
     <providers />
     <desc />
     <path>animation/2003/(2003.7.15)拜托了,双子星</path>
+  </subs>
+  <subs>
+    <name_chs>一骑当千/Ikkitousen</name_chs>
+    <name_cht>一騎當千/Ikkitousen</name_cht>
+    <name_jp>一騎当千</name_jp>
+    <name_en>Ikki Tousen</name_en>
+    <name_rome>Ikkitousen</name_rome>
+    <time>2003-07-30T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>全七季</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2003/(2003.7.30)一骑当千</path>
   </subs>
   <subs>
     <name_chs>D.C. 初音岛</name_chs>
@@ -6492,7 +6492,7 @@ ZERO REQUIEM liwei5203@sosg@kf个人制作</desc>
     <time>2008-10-04T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>[KTXP&amp;SumiSora]</sub_name>
+    <sub_name>Yousei_raws</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -6507,7 +6507,7 @@ ZERO REQUIEM liwei5203@sosg@kf个人制作</desc>
     <time>2008-10-04T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>_Yousei_raws__Toaru_Majutsu_no_Index__BDrip_1920x1080_x264_FLAC_</sub_name>
+    <sub_name>[KTXP&amp;SumiSora]</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -6536,99 +6536,9 @@ ZERO REQUIEM liwei5203@sosg@kf个人制作</desc>
     <name_rome>Toaru Majutsu no Index I</name_rome>
     <time>2008-10-04T00:00:00+08:00</time>
     <type>animation</type>
-    <source>BD</source>
-    <sub_name>英文字幕BD1(含NCOPED)</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2008/(2008.10.4)魔法禁书目录 S1</path>
-  </subs>
-  <subs>
-    <name_chs>魔法禁书目录(第1季)</name_chs>
-    <name_cht>魔法禁書目錄(第1季)</name_cht>
-    <name_jp>とある魔術の禁書目録 S1</name_jp>
-    <name_en>A Certain Magical Index</name_en>
-    <name_rome>Toaru Majutsu no Index I</name_rome>
-    <time>2008-10-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>BD</source>
-    <sub_name>英文字幕BD2</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2008/(2008.10.4)魔法禁书目录 S1</path>
-  </subs>
-  <subs>
-    <name_chs>魔法禁书目录(第1季)</name_chs>
-    <name_cht>魔法禁書目錄(第1季)</name_cht>
-    <name_jp>とある魔術の禁書目録 S1</name_jp>
-    <name_en>A Certain Magical Index</name_en>
-    <name_rome>Toaru Majutsu no Index I</name_rome>
-    <time>2008-10-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>BD</source>
-    <sub_name>西班牙文字幕BD(含NCOPED,有缺少)</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2008/(2008.10.4)魔法禁书目录 S1</path>
-  </subs>
-  <subs>
-    <name_chs>魔法禁书目录(第1季)</name_chs>
-    <name_cht>魔法禁書目錄(第1季)</name_cht>
-    <name_jp>とある魔術の禁書目録 S1</name_jp>
-    <name_en>A Certain Magical Index</name_en>
-    <name_rome>Toaru Majutsu no Index I</name_rome>
-    <time>2008-10-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>BD</source>
-    <sub_name>韩文字幕BD</sub_name>
-    <extension>.smi</extension>
-    <providers />
-    <desc />
-    <path>animation/2008/(2008.10.4)魔法禁书目录 S1</path>
-  </subs>
-  <subs>
-    <name_chs>魔法禁书目录(第1季)</name_chs>
-    <name_cht>魔法禁書目錄(第1季)</name_cht>
-    <name_jp>とある魔術の禁書目録 S1</name_jp>
-    <name_en>A Certain Magical Index</name_en>
-    <name_rome>Toaru Majutsu no Index I</name_rome>
-    <time>2008-10-04T00:00:00+08:00</time>
-    <type>animation</type>
     <source>DVD</source>
     <sub_name>俄文字幕DVD1</sub_name>
     <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2008/(2008.10.4)魔法禁书目录 S1</path>
-  </subs>
-  <subs>
-    <name_chs>魔法禁书目录(第1季)</name_chs>
-    <name_cht>魔法禁書目錄(第1季)</name_cht>
-    <name_jp>とある魔術の禁書目録 S1</name_jp>
-    <name_en>A Certain Magical Index</name_en>
-    <name_rome>Toaru Majutsu no Index I</name_rome>
-    <time>2008-10-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>俄文字幕TV</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2008/(2008.10.4)魔法禁书目录 S1</path>
-  </subs>
-  <subs>
-    <name_chs>魔法禁书目录(第1季)</name_chs>
-    <name_cht>魔法禁書目錄(第1季)</name_cht>
-    <name_jp>とある魔術の禁書目録 S1</name_jp>
-    <name_en>A Certain Magical Index</name_en>
-    <name_rome>Toaru Majutsu no Index I</name_rome>
-    <time>2008-10-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>英文字幕TV(有缺少)</sub_name>
-    <extension>.ass;.srt</extension>
     <providers />
     <desc />
     <path>animation/2008/(2008.10.4)魔法禁书目录 S1</path>
@@ -7145,8 +7055,8 @@ ZERO REQUIEM liwei5203@sosg@kf个人制作</desc>
     <time>2008-04-06T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>[ANK&amp;VCB-Studio][Code Geass Lelouch of the Rebellion]</sub_name>
-    <extension>.ass;.txt</extension>
+    <sub_name>[VCB-Studio&amp;ANK-Raws]叛逆的鲁鲁修全集</sub_name>
+    <extension />
     <providers />
     <desc />
     <path>animation/2008/(2008.4.6)Code Geass 反逆的鲁路修 R2</path>
@@ -7160,44 +7070,10 @@ ZERO REQUIEM liwei5203@sosg@kf个人制作</desc>
     <time>2008-04-06T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>[VCB-Studio&amp;ANK-Raws]叛逆的鲁鲁修全集</sub_name>
+    <sub_name>剧场版</sub_name>
     <extension>.ass</extension>
     <providers />
-    <desc>此版本我只改名匹配vcb的版本，以下为原版本说明
-
-
-
-***本版本只調校繁體版的時間軸***
-上传：Nox（伪射手网）
-基於[異域-11番小隊]所整合的字幕再調校時間軸
-適用於[ANK&amp;VCB-S&amp;philosophy-raws](雖然已有內嵌字幕)
-不確定是否能用於[VCB-Studio&amp;ANK-Raws]和[philosophy-raws](应该可以匹配）
-
-部分OVA字幕來自其他翻譯組
-部分Picture Drama找不到字幕
-
-時間有限，未能逐句檢查
-有需要的可以自行翻成簡體
-
-
-第一季
-1-18 射手MIX版字幕，整合了KPDM+DMHY+WLGO的翻译，readme什么的我就不附了，自己去射手看吧
-19-25、SP KPDM字幕
-
-第二季_R2
-文本为漫遊字幕
-OPED歌词皆取自CASO&amp;X2字幕
-SP5-9字幕来自射手，字幕组不明
-11-24 BD版预告是请异域字幕组的茶茶翻译的，在此致谢
-Flash 5-9 由于时间有限，加上这也是长久以来的老坑了，就先这样坑着吧
-
-SP-娜娜莉梦游仙境+奇迹的诞生日
-娜娜莉梦游仙境 夕染字幕社
-奇迹的诞生日 千夜殇个人制作
-
-总集篇
-BLACK REBELLION yycdmh个人制作
-ZERO REQUIEM liwei5203@sosg@kf个人制作</desc>
+    <desc />
     <path>animation/2008/(2008.4.6)Code Geass 反逆的鲁路修 R2</path>
   </subs>
   <subs>
@@ -7831,6 +7707,21 @@ ZERO REQUIEM liwei5203@sosg@kf个人制作</desc>
     <path>animation/2009/(2009.10.2)妖精的尾巴</path>
   </subs>
   <subs>
+    <name_chs>学生会的一己之见/学生会的一存/碧阳学园学生会议事录(第1季)</name_chs>
+    <name_cht>學生會的一己之見/學生會的一存/碧陽學園學生會議事錄(第1季)</name_cht>
+    <name_jp>碧陽学園生徒会議事録</name_jp>
+    <name_en>Student Council's Discretion</name_en>
+    <name_rome>Seitokai no ichizon</name_rome>
+    <time>2009-10-02T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[HKG&amp;CASO][Seitokai][BDrip-FullHD][Ateme-10bit_Flac]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2009/(2009.10.2)学生会的一己之见／碧阳学园学生会议事录</path>
+  </subs>
+  <subs>
     <name_chs>某科学的超电磁炮(第1季)</name_chs>
     <name_cht>某科學的超電磁炮(第1季)</name_cht>
     <name_jp>とある科学の超電磁砲 S1</name_jp>
@@ -7966,21 +7857,6 @@ ZERO REQUIEM liwei5203@sosg@kf个人制作</desc>
     <path>animation/2009/(2009.10.2)某科学的超电磁炮</path>
   </subs>
   <subs>
-    <name_chs>某科学的超电磁炮(第1季)</name_chs>
-    <name_cht>某科學的超電磁炮(第1季)</name_cht>
-    <name_jp>とある科学の超電磁砲 S1</name_jp>
-    <name_en>A Certain Scientific Railgun</name_en>
-    <name_rome>To Aru Kagaku no Railgun</name_rome>
-    <time>2009-10-02T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>第一季英文字幕TV</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2009/(2009.10.2)某科学的超电磁炮</path>
-  </subs>
-  <subs>
     <name_chs>圣剑的刀锻冶/圣剑锻造师</name_chs>
     <name_cht>圣劍的刀鍛冶/圣劍鍛造師</name_cht>
     <name_jp>聖剣の刀鍛冶</name_jp>
@@ -8065,36 +7941,6 @@ ZERO REQUIEM liwei5203@sosg@kf个人制作</desc>
     <type>animation</type>
     <source>BD</source>
     <sub_name>漫游FREEWIND</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2009/(2009.10.3)圣剑的刀锻冶</path>
-  </subs>
-  <subs>
-    <name_chs>圣剑的刀锻冶/圣剑锻造师</name_chs>
-    <name_cht>圣劍的刀鍛冶/圣劍鍛造師</name_cht>
-    <name_jp>聖剣の刀鍛冶</name_jp>
-    <name_en>The Sacred Blacksmith</name_en>
-    <name_rome>Seiken no Blacksmith</name_rome>
-    <time>2009-10-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>天の×异域</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2009/(2009.10.3)圣剑的刀锻冶</path>
-  </subs>
-  <subs>
-    <name_chs>圣剑的刀锻冶/圣剑锻造师</name_chs>
-    <name_cht>圣劍的刀鍛冶/圣劍鍛造師</name_cht>
-    <name_jp>聖剣の刀鍛冶</name_jp>
-    <name_en>The Sacred Blacksmith</name_en>
-    <name_rome>Seiken no Blacksmith</name_rome>
-    <time>2009-10-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>极影</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -8279,6 +8125,36 @@ ZERO REQUIEM liwei5203@sosg@kf个人制作</desc>
     <providers />
     <desc />
     <path>animation/2009/(2009.12.4)如果高中棒球队女子经理读了彼得·德鲁克</path>
+  </subs>
+  <subs>
+    <name_chs>小凉宫春日的忧郁</name_chs>
+    <name_cht>小涼宮春日的憂郁</name_cht>
+    <name_jp>涼宮ハルヒちゃんの憂鬱</name_jp>
+    <name_en>Suzumiya Haruhi-chan no Yuuutsu</name_en>
+    <name_rome>Suzumiya Haruhi-chan no Yuuutsu</name_rome>
+    <time>2009-02-14T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Moozzi2]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2009/(2009.2.14)小凉宫春日的忧郁</path>
+  </subs>
+  <subs>
+    <name_chs>小凉宫春日的忧郁</name_chs>
+    <name_cht>小涼宮春日的憂郁</name_cht>
+    <name_jp>涼宮ハルヒちゃんの憂鬱</name_jp>
+    <name_en>Suzumiya Haruhi-chan no Yuuutsu</name_en>
+    <name_rome>Suzumiya Haruhi-chan no Yuuutsu</name_rome>
+    <time>2009-02-14T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[VCB-Studio]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2009/(2009.2.14)小凉宫春日的忧郁</path>
   </subs>
   <subs>
     <name_chs>寒蝉鸣泣之时 礼</name_chs>
@@ -8614,21 +8490,6 @@ ZERO REQUIEM liwei5203@sosg@kf个人制作</desc>
     <time>2009-04-03T00:00:00+08:00</time>
     <type>animation</type>
     <source>DVD</source>
-    <sub_name>异域字幕组</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2009/(2009.4.3)阿拉德战记</path>
-  </subs>
-  <subs>
-    <name_chs>地下城与勇士/阿拉德战记</name_chs>
-    <name_cht>地下城與勇士/阿拉德戰記</name_cht>
-    <name_jp>アラド戦記 〜スラップアップパーティー〜</name_jp>
-    <name_en>Dungeon &amp; Fighter</name_en>
-    <name_rome>Dungeon &amp; Fighter</name_rome>
-    <time>2009-04-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
     <sub_name>异域字幕组</sub_name>
     <extension>.ass</extension>
     <providers />
@@ -10756,21 +10617,6 @@ PS：部分修改内容提取或参考自千夏、动漫国等字幕组，在此
     <path>animation/2010/(2010.10.4)缘之空</path>
   </subs>
   <subs>
-    <name_chs>缘之空(乳)</name_chs>
-    <name_cht>緣之空(乳)</name_cht>
-    <name_jp>ヨスガノソラ（縁の空）</name_jp>
-    <name_en>Yosuga no Sora</name_en>
-    <name_rome>Yosuga no Sora</name_rome>
-    <time>2010-10-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[极影字幕社][缘之空 Yosuga no Sora][简繁外挂字幕][01-12][720P][TVRIP]</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.10.4)缘之空</path>
-  </subs>
-  <subs>
     <name_chs>更多的To LOVEる(第2季)(乳)</name_chs>
     <name_cht>更多的To LOVEる(第2季)(乳)</name_cht>
     <name_jp>もっとTo LOVEる -とらぶる-</name_jp>
@@ -11086,81 +10932,6 @@ PS：部分修改内容提取或参考自千夏、动漫国等字幕组，在此
     <path>animation/2010/(2010.10.8)魔法禁书目录 S2</path>
   </subs>
   <subs>
-    <name_chs>魔法禁书目录(第2季)</name_chs>
-    <name_cht>魔法禁書目錄(第2季)</name_cht>
-    <name_jp>とある魔術の禁書目録 S2</name_jp>
-    <name_en>A Certain Magical Index II</name_en>
-    <name_rome>Toaru Majutsu no Index II</name_rome>
-    <time>2010-10-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>BD</source>
-    <sub_name>英文字幕BD1(含NCOPED)</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.10.8)魔法禁书目录 S2</path>
-  </subs>
-  <subs>
-    <name_chs>魔法禁书目录(第2季)</name_chs>
-    <name_cht>魔法禁書目錄(第2季)</name_cht>
-    <name_jp>とある魔術の禁書目録 S2</name_jp>
-    <name_en>A Certain Magical Index II</name_en>
-    <name_rome>Toaru Majutsu no Index II</name_rome>
-    <time>2010-10-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>BD</source>
-    <sub_name>英文字幕BD2(含NCOPED及特典)</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.10.8)魔法禁书目录 S2</path>
-  </subs>
-  <subs>
-    <name_chs>魔法禁书目录(第2季)</name_chs>
-    <name_cht>魔法禁書目錄(第2季)</name_cht>
-    <name_jp>とある魔術の禁書目録 S2</name_jp>
-    <name_en>A Certain Magical Index II</name_en>
-    <name_rome>Toaru Majutsu no Index II</name_rome>
-    <time>2010-10-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>俄文字幕TV2</sub_name>
-    <extension>.ass;.srt</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.10.8)魔法禁书目录 S2</path>
-  </subs>
-  <subs>
-    <name_chs>魔法禁书目录(第2季)</name_chs>
-    <name_cht>魔法禁書目錄(第2季)</name_cht>
-    <name_jp>とある魔術の禁書目録 S2</name_jp>
-    <name_en>A Certain Magical Index II</name_en>
-    <name_rome>Toaru Majutsu no Index II</name_rome>
-    <time>2010-10-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>英文字幕TV3</sub_name>
-    <extension>.ass;.srt</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.10.8)魔法禁书目录 S2</path>
-  </subs>
-  <subs>
-    <name_chs>魔法禁书目录(第2季)</name_chs>
-    <name_cht>魔法禁書目錄(第2季)</name_cht>
-    <name_jp>とある魔術の禁書目録 S2</name_jp>
-    <name_en>A Certain Magical Index II</name_en>
-    <name_rome>Toaru Majutsu no Index II</name_rome>
-    <time>2010-10-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>英文字幕TV4</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.10.8)魔法禁书目录 S2</path>
-  </subs>
-  <subs>
     <name_chs>空之境界 终章/空之境界</name_chs>
     <name_cht>空之境界 終章/空之境界</name_cht>
     <name_jp>空の境界 終章/空の境界</name_jp>
@@ -11249,6 +11020,66 @@ PS：部分修改内容提取或参考自千夏、动漫国等字幕组，在此
     <providers />
     <desc />
     <path>animation/2010/(2010.12.25)苍穹之战神 剧场版 HEAVEN AND EARTH</path>
+  </subs>
+  <subs>
+    <name_chs>凉宫春日的消失</name_chs>
+    <name_cht>涼宮春日的消失</name_cht>
+    <name_jp>涼宮ハルヒの消失</name_jp>
+    <name_en>Suzumiya Haruhi no Shoushitsu</name_en>
+    <name_rome>Suzumiya Haruhi no Shoushitsu</name_rome>
+    <time>2010-02-06T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>ass</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2010/(2010.2.6)凉宫春日的消失</path>
+  </subs>
+  <subs>
+    <name_chs>凉宫春日的消失</name_chs>
+    <name_cht>涼宮春日的消失</name_cht>
+    <name_jp>涼宮ハルヒの消失</name_jp>
+    <name_en>Suzumiya Haruhi no Shoushitsu</name_en>
+    <name_rome>Suzumiya Haruhi no Shoushitsu</name_rome>
+    <time>2010-02-06T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>凉宫春日的消失 华盟+曙光社版字幕（简繁备选）</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2010/(2010.2.6)凉宫春日的消失</path>
+  </subs>
+  <subs>
+    <name_chs>凉宫春日的消失</name_chs>
+    <name_cht>涼宮春日的消失</name_cht>
+    <name_jp>涼宮ハルヒの消失</name_jp>
+    <name_en>Suzumiya Haruhi no Shoushitsu</name_en>
+    <name_rome>Suzumiya Haruhi no Shoushitsu</name_rome>
+    <time>2010-02-06T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>凉宫春日的消失 特典字幕</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2010/(2010.2.6)凉宫春日的消失</path>
+  </subs>
+  <subs>
+    <name_chs>凉宫春日的消失</name_chs>
+    <name_cht>涼宮春日的消失</name_cht>
+    <name_jp>涼宮ハルヒの消失</name_jp>
+    <name_en>Suzumiya Haruhi no Shoushitsu</name_en>
+    <name_rome>Suzumiya Haruhi no Shoushitsu</name_rome>
+    <time>2010-02-06T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>凉宫春日的消失 精校重制版字幕</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2010/(2010.2.6)凉宫春日的消失</path>
   </subs>
   <subs>
     <name_chs>会长是女仆大人</name_chs>
@@ -11665,141 +11496,6 @@ FG平成明朝体W9
     <type>animation</type>
     <source>BD</source>
     <sub_name>漫游FREEWIND.繁体</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.4.3)Angel Beats！</path>
-  </subs>
-  <subs>
-    <name_chs>Angel Beats!</name_chs>
-    <name_cht>Angel Beats!</name_cht>
-    <name_jp>エンジェルビーツ</name_jp>
-    <name_en>Angel Beats!</name_en>
-    <name_rome>Enjeru Bītsu!</name_rome>
-    <time>2010-04-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>TSDM</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.4.3)Angel Beats！</path>
-  </subs>
-  <subs>
-    <name_chs>Angel Beats!</name_chs>
-    <name_cht>Angel Beats!</name_cht>
-    <name_jp>エンジェルビーツ</name_jp>
-    <name_en>Angel Beats!</name_en>
-    <name_rome>Enjeru Bītsu!</name_rome>
-    <time>2010-04-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>御宅千夏×TPTimE</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.4.3)Angel Beats！</path>
-  </subs>
-  <subs>
-    <name_chs>Angel Beats!</name_chs>
-    <name_cht>Angel Beats!</name_cht>
-    <name_jp>エンジェルビーツ</name_jp>
-    <name_en>Angel Beats!</name_en>
-    <name_rome>Enjeru Bītsu!</name_rome>
-    <time>2010-04-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>流云</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.4.3)Angel Beats！</path>
-  </subs>
-  <subs>
-    <name_chs>Angel Beats!</name_chs>
-    <name_cht>Angel Beats!</name_cht>
-    <name_jp>エンジェルビーツ</name_jp>
-    <name_en>Angel Beats!</name_en>
-    <name_rome>Enjeru Bītsu!</name_rome>
-    <time>2010-04-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>漫游</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.4.3)Angel Beats！</path>
-  </subs>
-  <subs>
-    <name_chs>Angel Beats!</name_chs>
-    <name_cht>Angel Beats!</name_cht>
-    <name_jp>エンジェルビーツ</name_jp>
-    <name_en>Angel Beats!</name_en>
-    <name_rome>Enjeru Bītsu!</name_rome>
-    <time>2010-04-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>漫游连载组PSS×雪飘工作室.简体</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.4.3)Angel Beats！</path>
-  </subs>
-  <subs>
-    <name_chs>Angel Beats!</name_chs>
-    <name_cht>Angel Beats!</name_cht>
-    <name_jp>エンジェルビーツ</name_jp>
-    <name_en>Angel Beats!</name_en>
-    <name_rome>Enjeru Bītsu!</name_rome>
-    <time>2010-04-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>漫游连载组PSS×雪飘工作室.繁體</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.4.3)Angel Beats！</path>
-  </subs>
-  <subs>
-    <name_chs>Angel Beats!</name_chs>
-    <name_cht>Angel Beats!</name_cht>
-    <name_jp>エンジェルビーツ</name_jp>
-    <name_en>Angel Beats!</name_en>
-    <name_rome>Enjeru Bītsu!</name_rome>
-    <time>2010-04-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>萌月×诸神.中文字幕</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.4.3)Angel Beats！</path>
-  </subs>
-  <subs>
-    <name_chs>Angel Beats!</name_chs>
-    <name_cht>Angel Beats!</name_cht>
-    <name_jp>エンジェルビーツ</name_jp>
-    <name_en>Angel Beats!</name_en>
-    <name_rome>Enjeru Bītsu!</name_rome>
-    <time>2010-04-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>萌月×诸神.日文字幕</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2010/(2010.4.3)Angel Beats！</path>
-  </subs>
-  <subs>
-    <name_chs>Angel Beats!</name_chs>
-    <name_cht>Angel Beats!</name_cht>
-    <name_jp>エンジェルビーツ</name_jp>
-    <name_en>Angel Beats!</name_en>
-    <name_rome>Enjeru Bītsu!</name_rome>
-    <time>2010-04-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>萌月×诸神【其他部分】</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -13052,31 +12748,6 @@ EPSON 太角ゴシック体Ｂ
     <path>animation/2011/(2011.1.7)GOSICK 哥特萝莉侦探事件薄</path>
   </subs>
   <subs>
-    <name_chs>哥特萝莉侦探事件薄</name_chs>
-    <name_cht>哥特蘿莉偵探事件薄</name_cht>
-    <name_jp>GOSICK -ゴシック-</name_jp>
-    <name_en>GOSICK</name_en>
-    <name_rome>GOSICK</name_rome>
-    <time>2011-01-07T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[TNDR]</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc>链接：http://pan.baidu.com/s/1eSlDZTC
-密码：i8tx
-内含如下字体：
-DFPOPCorn-W12
-華康POP3體W12
-華康布丁體
-華康采風體W3
-華康儷宋
-華康中黑體(P)-UN
-華康中黑體
-華康中圓體</desc>
-    <path>animation/2011/(2011.1.7)GOSICK 哥特萝莉侦探事件薄</path>
-  </subs>
-  <subs>
     <name_chs>腹黑妹妹控兄记</name_chs>
     <name_cht>腹黑妹妹控兄記</name_cht>
     <name_jp>お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!</name_jp>
@@ -13692,51 +13363,6 @@ DFPOPCorn-W12
     <path>animation/2011/(2011.10.4)纯白交响曲</path>
   </subs>
   <subs>
-    <name_chs>纯白交响曲(乳)</name_chs>
-    <name_cht>純白交響曲(乳)</name_cht>
-    <name_jp>ましろ色シンフォニー</name_jp>
-    <name_en>Pure White Symphony</name_en>
-    <name_rome>Mashiroiro Shinfonī</name_rome>
-    <time>2011-10-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>天使×DHR</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2011/(2011.10.4)纯白交响曲</path>
-  </subs>
-  <subs>
-    <name_chs>纯白交响曲(乳)</name_chs>
-    <name_cht>純白交響曲(乳)</name_cht>
-    <name_jp>ましろ色シンフォニー</name_jp>
-    <name_en>Pure White Symphony</name_en>
-    <name_rome>Mashiroiro Shinfonī</name_rome>
-    <time>2011-10-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>澄空</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2011/(2011.10.4)纯白交响曲</path>
-  </subs>
-  <subs>
-    <name_chs>纯白交响曲(乳)</name_chs>
-    <name_cht>純白交響曲(乳)</name_cht>
-    <name_jp>ましろ色シンフォニー</name_jp>
-    <name_en>Pure White Symphony</name_en>
-    <name_rome>Mashiroiro Shinfonī</name_rome>
-    <time>2011-10-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>雪酷</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2011/(2011.10.4)纯白交响曲</path>
-  </subs>
-  <subs>
     <name_chs>花牌情缘</name_chs>
     <name_cht>花牌情緣</name_cht>
     <name_jp>ちはやふる</name_jp>
@@ -14001,36 +13627,6 @@ DFPOPCorn-W12
     <type>animation</type>
     <source>OAD</source>
     <sub_name>四魂</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2011/(2011.10.9)未来日记 Mirai Nikki</path>
-  </subs>
-  <subs>
-    <name_chs>未来日记(乳)</name_chs>
-    <name_cht>未來日記(乳)</name_cht>
-    <name_jp>未来日記</name_jp>
-    <name_en>The Future Diary</name_en>
-    <name_rome>Mirai Nikki</name_rome>
-    <time>2011-10-09T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>四魂</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2011/(2011.10.9)未来日记 Mirai Nikki</path>
-  </subs>
-  <subs>
-    <name_chs>未来日记(乳)</name_chs>
-    <name_cht>未來日記(乳)</name_cht>
-    <name_jp>未来日記</name_jp>
-    <name_en>The Future Diary</name_en>
-    <name_rome>Mirai Nikki</name_rome>
-    <time>2011-10-09T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>诸神</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -14636,21 +14232,6 @@ PS：部分修改内容提取或参考自千夏、动漫国等字幕组，在此
     <source>DVD</source>
     <sub_name>动音漫影</sub_name>
     <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2011/(2011.4.16)死囚乐园</path>
-  </subs>
-  <subs>
-    <name_chs>死囚乐园 DEADMAN WONDERLAND</name_chs>
-    <name_cht>死囚樂園 DEADMAN WONDERLAND</name_cht>
-    <name_jp>デッドマン・ワンダーランド</name_jp>
-    <name_en>Deadman Wonderland</name_en>
-    <name_rome>Deddoman Wandārando</name_rome>
-    <time>2011-04-16T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>曙光社</sub_name>
-    <extension />
     <providers />
     <desc />
     <path>animation/2011/(2011.4.16)死囚乐园</path>
@@ -16738,6 +16319,36 @@ zx353分享了猫物语（白）前3集副音轨字幕
     <path>animation/2012/(2012.10.11)心理测量者 Psycho-Pass</path>
   </subs>
   <subs>
+    <name_chs>学生会的一己之见/学生会的一存/碧阳学园学生会议事录 Lv.2(第2季)</name_chs>
+    <name_cht>學生會的一己之見/學生會的一存/碧陽學園學生會議事錄 Lv.2(第2季)</name_cht>
+    <name_jp>碧陽学園生徒会議事録 Lv.2</name_jp>
+    <name_en>Student Council's Discretion Lv.2</name_en>
+    <name_rome>Seitokai no ichizon Lv.2</name_rome>
+    <time>2012-10-13T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Airota][Seitokai_no_Ichizon_Lv.2][BDrip_1080P][x264-Hi10P_FLAC]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2012/(2012.10.13)学生会的一己之见／碧阳学园学生会议事录 Lv.2</path>
+  </subs>
+  <subs>
+    <name_chs>学生会的一己之见/学生会的一存/碧阳学园学生会议事录 Lv.2(第2季)</name_chs>
+    <name_cht>學生會的一己之見/學生會的一存/碧陽學園學生會議事錄 Lv.2(第2季)</name_cht>
+    <name_jp>碧陽学園生徒会議事録 Lv.2</name_jp>
+    <name_en>Student Council's Discretion Lv.2</name_en>
+    <name_rome>Seitokai no ichizon Lv.2</name_rome>
+    <time>2012-10-13T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Airota][Snow-Raws] 生徒会の一存 Lv.2</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2012/(2012.10.13)学生会的一己之见／碧阳学园学生会议事录 Lv.2</path>
+  </subs>
+  <subs>
     <name_chs>只有神知道的世界 - OAD第二期 ‘天理篇’</name_chs>
     <name_cht>只有神知道的世界 - OAD第二期 ‘天理篇’</name_cht>
     <name_jp>神のみぞ知るセカイ 天理篇</name_jp>
@@ -17528,111 +17139,6 @@ zx353分享了猫物语（白）前3集副音轨字幕
     <source>BD</source>
     <sub_name>澄空×SOSG</sub_name>
     <extension />
-    <providers />
-    <desc />
-    <path>animation/2012/(2012.10.8)樱花庄的宠物女孩</path>
-  </subs>
-  <subs>
-    <name_chs>樱花庄的宠物女孩</name_chs>
-    <name_cht>櫻花莊的寵物女孩</name_cht>
-    <name_jp>さくら荘のペットな彼女</name_jp>
-    <name_en>The Pet Girl of Sakurasou</name_en>
-    <name_rome>Sakurasō no Petto na Kanojo</name_rome>
-    <time>2012-10-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>TSDM</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2012/(2012.10.8)樱花庄的宠物女孩</path>
-  </subs>
-  <subs>
-    <name_chs>樱花庄的宠物女孩</name_chs>
-    <name_cht>櫻花莊的寵物女孩</name_cht>
-    <name_jp>さくら荘のペットな彼女</name_jp>
-    <name_en>The Pet Girl of Sakurasou</name_en>
-    <name_rome>Sakurasō no Petto na Kanojo</name_rome>
-    <time>2012-10-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>TUcaptions</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2012/(2012.10.8)樱花庄的宠物女孩</path>
-  </subs>
-  <subs>
-    <name_chs>樱花庄的宠物女孩</name_chs>
-    <name_cht>櫻花莊的寵物女孩</name_cht>
-    <name_jp>さくら荘のペットな彼女</name_jp>
-    <name_en>The Pet Girl of Sakurasou</name_en>
-    <name_rome>Sakurasō no Petto na Kanojo</name_rome>
-    <time>2012-10-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>动漫国</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2012/(2012.10.8)樱花庄的宠物女孩</path>
-  </subs>
-  <subs>
-    <name_chs>樱花庄的宠物女孩</name_chs>
-    <name_cht>櫻花莊的寵物女孩</name_cht>
-    <name_jp>さくら荘のペットな彼女</name_jp>
-    <name_en>The Pet Girl of Sakurasou</name_en>
-    <name_rome>Sakurasō no Petto na Kanojo</name_rome>
-    <time>2012-10-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>樱律</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2012/(2012.10.8)樱花庄的宠物女孩</path>
-  </subs>
-  <subs>
-    <name_chs>樱花庄的宠物女孩</name_chs>
-    <name_cht>櫻花莊的寵物女孩</name_cht>
-    <name_jp>さくら荘のペットな彼女</name_jp>
-    <name_en>The Pet Girl of Sakurasou</name_en>
-    <name_rome>Sakurasō no Petto na Kanojo</name_rome>
-    <time>2012-10-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>澄空×SOSG</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2012/(2012.10.8)樱花庄的宠物女孩</path>
-  </subs>
-  <subs>
-    <name_chs>樱花庄的宠物女孩</name_chs>
-    <name_cht>櫻花莊的寵物女孩</name_cht>
-    <name_jp>さくら荘のペットな彼女</name_jp>
-    <name_en>The Pet Girl of Sakurasou</name_en>
-    <name_rome>Sakurasō no Petto na Kanojo</name_rome>
-    <time>2012-10-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>白恋</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2012/(2012.10.8)樱花庄的宠物女孩</path>
-  </subs>
-  <subs>
-    <name_chs>樱花庄的宠物女孩</name_chs>
-    <name_cht>櫻花莊的寵物女孩</name_cht>
-    <name_jp>さくら荘のペットな彼女</name_jp>
-    <name_en>The Pet Girl of Sakurasou</name_en>
-    <name_rome>Sakurasō no Petto na Kanojo</name_rome>
-    <time>2012-10-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>雪飘</sub_name>
-    <extension>.rar</extension>
     <providers />
     <desc />
     <path>animation/2012/(2012.10.8)樱花庄的宠物女孩</path>
@@ -18987,66 +18493,6 @@ zx353分享了猫物语（白）前3集副音轨字幕
     <path>animation/2012/(2012.7.1)人类衰退之后</path>
   </subs>
   <subs>
-    <name_chs>人类衰退之后</name_chs>
-    <name_cht>人類衰退之後</name_cht>
-    <name_jp>人類は衰退しました</name_jp>
-    <name_en>Humanity Has Declined</name_en>
-    <name_rome>Jinrui wa Suitai Shimashita</name_rome>
-    <time>2012-07-01T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>人类衰退之后.TVrip.Airota&amp;DHR&amp;Mony</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2012/(2012.7.1)人类衰退之后</path>
-  </subs>
-  <subs>
-    <name_chs>人类衰退之后</name_chs>
-    <name_cht>人類衰退之後</name_cht>
-    <name_jp>人類は衰退しました</name_jp>
-    <name_en>Humanity Has Declined</name_en>
-    <name_rome>Jinrui wa Suitai Shimashita</name_rome>
-    <time>2012-07-01T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>人类衰退之后.TVrip.Kamigami</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2012/(2012.7.1)人类衰退之后</path>
-  </subs>
-  <subs>
-    <name_chs>人类衰退之后</name_chs>
-    <name_cht>人類衰退之後</name_cht>
-    <name_jp>人類は衰退しました</name_jp>
-    <name_en>Humanity Has Declined</name_en>
-    <name_rome>Jinrui wa Suitai Shimashita</name_rome>
-    <time>2012-07-01T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>人类衰退之后.TVrip.LKSUB</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2012/(2012.7.1)人类衰退之后</path>
-  </subs>
-  <subs>
-    <name_chs>人类衰退之后</name_chs>
-    <name_cht>人類衰退之後</name_cht>
-    <name_jp>人類は衰退しました</name_jp>
-    <name_en>Humanity Has Declined</name_en>
-    <name_rome>Jinrui wa Suitai Shimashita</name_rome>
-    <time>2012-07-01T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>人类衰退之后.TVrip.TSDM</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2012/(2012.7.1)人类衰退之后</path>
-  </subs>
-  <subs>
     <name_chs>千岁Get You!!</name_chs>
     <name_cht>千歲Get You!!</name_cht>
     <name_jp>千歲Get You！！/ちとせげっちゅ!!</name_jp>
@@ -19370,209 +18816,6 @@ zx353分享了猫物语（白）前3集副音轨字幕
     <time>2012-07-07T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>[中文字幕全版本]</sub_name>
-    <extension />
-    <providers />
-    <desc>注：请安装如下字体后，再加载外挂字幕，否则将可能无法显示正确的字体，且字幕可能会出现错位现象！
-
-【字体包度盘链接】（第1季共计15组出了外挂或内封字幕，用到83种字体。）
-链接：http://pan.baidu.com/s/1jIr0JBo
-密码：54bj
-
-各组所需字体列表如下：
-【DHR×白月】
-[BD]
-DFGiHi-W7 &amp; DFPGiHi-W7 &amp; DFGGiHi-W7
-DFHSGothic-W5 &amp; DFPHSGothic-W5 &amp; DFGHSGothic-W5
-DFHSMincho-W9 &amp; DFPHSMincho-W9 &amp; DFGHSMincho-W9
-方正大黑_GBK
-方正准圆_GBK
-華康儷中宋 &amp; 華康儷中宋(P)
-華康談楷體W5 &amp; 華康談楷體W5(P)
-華康新特黑體 &amp; 華康新特黑體(P)
-華康新特明體 &amp; 華康新特明體(P)
-文泉驿微米黑 &amp; 文泉等宽驿微米黑
-
-[TV]
-DFHSMincho-W7 &amp; DFPHSMincho-W7 &amp; DFGHSMincho-W7
-DFSoGei-W7
-DFTegakiKaku-W4 &amp; DFPTegakiKaku-W4 &amp; DFGTegakiKaku-W4
-EPSON 太明朝体Ｂ
-方正大标宋_GBK
-方正大黑_GBK
-方正准圆_GBK
-方正综艺_GBK
-華康竹風體W4 &amp; 華康竹風體W4(P)
-文鼎新藝體
-
-【SOSG×动漫国】
-DFMincho-UB &amp; DFPMincho-UB &amp; DFGMincho-UB
-方正大标宋_GBK
-方正准圆_GBK
-微软雅黑 Bold
-微软雅黑
-
-【TSDM】
-方正平和_GBK
-方正舒体_GBK
-方正幼线_GBK
-方正准圆_GBK
-浪漫雅圆
-微软雅黑 Bold
-微软雅黑
-昭和モダン体
-
-【白恋】
-DFRuLeiA-W5 &amp; DFPRuLeiA-W5 &amp; DFGRuLeiA-W5
-elena（えれーな）
-方正华隶_GBK
-方正水柱_GBK
-方正准圆_GBK
-
-【澄空】
-[BD]
-ＤＦ華康ゴシック体W5 &amp; DFPGothicP-W5 &amp; DFGGothicP-W5
-方正黑体_GBK
-方正隶变_GBK
-方正细黑一_GBK
-华文中宋
-微软雅黑
-
-[TV]
-DFGothicP_U-W5 &amp; DFPGothicP_U-W5 &amp; DFGGothicP_U-W5
-ＤＦ華康ゴシック体W5 &amp; DFPGothicP-W5 &amp; DFGGothicP-W5
-方正大标宋_GBK
-方正黑体_GBK
-方正宋黑_GBK
-华文中宋
-微软雅黑 Bold
-微软雅黑
-
-【华盟】
-DFHSGothic-W5 &amp; DFPHSGothic-W5 &amp; DFGHSGothic-W5
-DFHSMincho-W7 &amp; DFPHSMincho-W7 &amp; DFGHSMincho-W7
-方正大标宋_GBK
-方正黑体_GBK
-方正平和_GBK
-方正准圆_GBK
-华文细黑
-微软雅黑 Bold
-微软雅黑
-
-【铃风】
-EPSON 太行書体Ｂ
-華康粗黑體 &amp; 華康粗黑體(P)
-華康儷宋 &amp; 華康儷宋(P)
-華康細黑體 &amp; 華康細黑體(P)
-華康中黑體 &amp; 華康中黑體(P)
-華康中圓體 &amp; 華康中圓體(P)
-
-【流云】
-DFMincho-UB &amp; DFPMincho-UB &amp; DFGMincho-UB
-ZhunYuan
-方正大标宋_GBK
-
-【萌月】
-方正准圆_GBK
-
-【生徒会】
-aquafont
-华康布丁体W12 &amp; 华康布丁体W12(P)
-华康龙门石碑W9 &amp; 华康龙门石碑W9(P)
-ＤＦブラッシュＲＤW7
-方正准圆_GBK
-宋体 &amp; 新宋体 &amp; 宋体-PUA
-
-【微笑】
-[BD]
-DFTegakiKaku-W4 &amp; DFPTegakiKaku-W4 &amp; DFGTegakiKaku-W4
-TT-JTCウインZ5 &amp; TT-JTCウインZ5P
-方正粗圆_GBK
-華康粗圓體 &amp; 華康粗圓體(P)
-華康儷中黑 &amp; 華康儷中黑(P)
-華康少女文字W3 &amp; 華康少女文字W3(P)
-華康新特黑體 &amp; 華康新特黑體(P)
-華康新特明體 &amp; 華康新特明體(P)
-華康新特圓體 &amp; 華康新特圓體(P)
-華康新綜藝體W5 &amp; 華康新綜藝體W5(P)
-華康中黑體 &amp; 華康中黑體(P)
-華康中黑體(P)-UN
-華康中明體 &amp; 華康中明體(P)
-華康中特圓體 &amp; 華康中特圓體(P)
-華康中圓體 &amp; 華康中圓體(P)
-華康竹風體W4 &amp; 華康竹風體W4(P)
-时尚中黑  - Yolan
-
-[TV]
-FG平成明朝体W7
-FOT-NewRodin ProN B
-FOT-PopFury Std B
-TT-JTCウインZ5 &amp; TT-JTCウインZ5P
-方正粗圆_GBK
-華康粗圓體 &amp; 華康粗圓體(P)
-華康少女文字W3 &amp; 華康少女文字W3(P)
-華康特粗黑體
-華康新特黑體 &amp; 華康新特黑體(P)
-華康新特明體 &amp; 華康新特明體(P)
-華康新特圓體 &amp; 華康新特圓體(P)
-華康新綜藝體W5 &amp; 華康新綜藝體W5(P)
-華康中黑體 &amp; 華康中黑體(P)
-華康中黑體(P)-UN
-華康中明體 &amp; 華康中明體(P)
-華康中圓體 &amp; 華康中圓體(P)
-时尚中黑  - Yolan
-微軟正黑體 Bold
-微軟正黑體
-細明體 &amp; 新细明體 &amp; 新细明體_HKSCS
-
-【雪酷】
-方正准圆_GBK
-微软雅黑 Bold
-微软雅黑
-
-【异域】
-[BD]
-EPSON 太明朝体Ｂ
-EPSON 正楷書体Ｍ
-方正准圆_GBK
-華康徽宗宮體W5 &amp; 華康徽宗宮體W5(P)
-微軟正黑體 Bold
-微軟正黑體
-
-[TV]
-EPSON 太丸ゴシック体Ｂ
-EPSON 正楷書体Ｍ
-方正苏新诗柳楷简
-方正准圆简体
-
-【悠哈璃羽】
-方正准圆_GBK
-方正准圆简体
-汉仪中圆简
-浪漫雅圆
-幼圆
-长城粗圆体
-
-【诸神】
-Arphic Roman-Mincho Ultra JIS
-EPSON 太丸ゴシック体Ｂ
-方正粗倩简体
-方正古隶简体
-方正喵鸣
-浪漫雅圆
-迷你简康体
-苏新诗卵石体</desc>
-    <path>animation/2012/(2012.7.7)刀剑神域 Sword Art Online</path>
-  </subs>
-  <subs>
-    <name_chs>刀剑神域(第1季)</name_chs>
-    <name_cht>刀劍神域(第1季)</name_cht>
-    <name_jp>刀劍神域</name_jp>
-    <name_en>Sword Art Online</name_en>
-    <name_rome>Sword Art Online</name_rome>
-    <time>2012-07-07T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
     <sub_name>[中文字幕全版本]</sub_name>
     <extension />
     <providers />
@@ -22077,66 +21320,6 @@ MS Gothic
     <path>animation/2013/(2013.4.12)某科学的超电磁炮 S</path>
   </subs>
   <subs>
-    <name_chs>某科学的超电磁炮 S(第2季)</name_chs>
-    <name_cht>某科學的超電磁炮 S(第2季)</name_cht>
-    <name_jp>とある科学の超電磁砲S</name_jp>
-    <name_en>A Certain Scientific Railgun S</name_en>
-    <name_rome>To Aru Kagaku no Railgun S</name_rome>
-    <time>2013-04-12T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>第二季德文字幕TV</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2013/(2013.4.12)某科学的超电磁炮 S</path>
-  </subs>
-  <subs>
-    <name_chs>某科学的超电磁炮 S(第2季)</name_chs>
-    <name_cht>某科學的超電磁炮 S(第2季)</name_cht>
-    <name_jp>とある科学の超電磁砲S</name_jp>
-    <name_en>A Certain Scientific Railgun S</name_en>
-    <name_rome>To Aru Kagaku no Railgun S</name_rome>
-    <time>2013-04-12T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>第二季简繁中文字幕2TV(由动漫国字幕组翻译,仅含第1-9集)</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2013/(2013.4.12)某科学的超电磁炮 S</path>
-  </subs>
-  <subs>
-    <name_chs>某科学的超电磁炮 S(第2季)</name_chs>
-    <name_cht>某科學的超電磁炮 S(第2季)</name_cht>
-    <name_jp>とある科学の超電磁砲S</name_jp>
-    <name_en>A Certain Scientific Railgun S</name_en>
-    <name_rome>To Aru Kagaku no Railgun S</name_rome>
-    <time>2013-04-12T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>第二季英文字幕1TV</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2013/(2013.4.12)某科学的超电磁炮 S</path>
-  </subs>
-  <subs>
-    <name_chs>某科学的超电磁炮 S(第2季)</name_chs>
-    <name_cht>某科學的超電磁炮 S(第2季)</name_cht>
-    <name_jp>とある科学の超電磁砲S</name_jp>
-    <name_en>A Certain Scientific Railgun S</name_en>
-    <name_rome>To Aru Kagaku no Railgun S</name_rome>
-    <time>2013-04-12T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>第二季英文字幕2TV</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2013/(2013.4.12)某科学的超电磁炮 S</path>
-  </subs>
-  <subs>
     <name_chs>命运石之门 剧场版 负荷领域的既视感</name_chs>
     <name_cht>命運石之門 劇場版 負荷領域的既視感</name_cht>
     <name_jp>劇場版 STEINS;GATE 負荷領域のデジャヴ</name_jp>
@@ -22252,21 +21435,6 @@ MS Gothic
     <source>BD</source>
     <sub_name>[異域简繁][RDG 濒危物种少女][ RDG Red Data Girl][BDrip][TV 01-12Fin][ASS][对应BD调整时间轴]</sub_name>
     <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2013/(2013.4.3)RDG 濒危物种少女</path>
-  </subs>
-  <subs>
-    <name_chs>RDG 濒危物种少女</name_chs>
-    <name_cht>RDG 瀕危物種少女</name_cht>
-    <name_jp>RDG レッドデータガール</name_jp>
-    <name_en>Red Data Girl</name_en>
-    <name_rome>RDG Reddo Dēta Gāru</name_rome>
-    <time>2013-04-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>诸神字幕组</sub_name>
-    <extension />
     <providers />
     <desc />
     <path>animation/2013/(2013.4.3)RDG 濒危物种少女</path>
@@ -22647,36 +21815,6 @@ K.N.L.A.万岁!二次元人民大团结万岁!</desc>
     <path>animation/2013/(2013.4.6)进击的巨人 S1</path>
   </subs>
   <subs>
-    <name_chs>进击的巨人(第1季)</name_chs>
-    <name_cht>進擊的巨人(第1季)</name_cht>
-    <name_jp>進撃の巨人</name_jp>
-    <name_en>Attack on Titan</name_en>
-    <name_rome>Shingeki no Kyojin</name_rome>
-    <time>2013-04-06T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>Shingeki no Kyojin</sub_name>
-    <extension>.txt</extension>
-    <providers />
-    <desc>包含7国字幕.
-中文字幕有华盟字幕社版,TUcaptions字幕组版,诸神字幕组版,F宅字幕组版,动漫国字幕组&amp;恶魔岛字幕组版.
-其中有的版本有缺少,有的版本还包含NCOPED及特典字幕字幕,请注意!
-TV版与BD/DVD版的区别:
-1.TV版的OP结束后可能会出现几秒的赞助商的广告,BD/DVD版无此现象.可能会发生时间轴不对应的情况.
-2.BD/DVD版相对于TV版为修正版,部分台词和OPED可能会发生变动.
-3.本作TV版含第13.5集,BD版不包含(也就是说TV与BD版的第13集下集预告会有不同).
-请尽量使用对应版本的字幕,若无对应版本请自行校准时间轴.
-若字幕为乱码,请更改扩展名为txt,打开方式为浏览器,调整编码后复制粘帖到新的记事本并修改为相同文件名及扩展名.
-内附磁力链接下载地址.
-以后压缩可能采取新的WINRAR5压缩格式,请尽量更新至WINRAR5.
-keivn36提取整理.
-keivn36@163.com
-赞助平台:http://item.taobao.com/item.htm?id=38960806023
-K.N.L.A.--专业二次元多国字幕,射手上就有!
-K.N.L.A.万岁!二次元人民大团结万岁!</desc>
-    <path>animation/2013/(2013.4.6)进击的巨人 S1</path>
-  </subs>
-  <subs>
     <name_chs>潜行吧！奈亚子W(第2季)</name_chs>
     <name_cht>潛行吧！奈亞子W(第2季)</name_cht>
     <name_jp>這いよれ！ニャル子さん W</name_jp>
@@ -22916,21 +22054,6 @@ K.N.L.A.万岁!二次元人民大团结万岁!</desc>
     <time>2013-06-18T00:00:00+08:00</time>
     <type>animation</type>
     <source>DVD</source>
-    <sub_name>澄空</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2013/(2013.6.18)只有神知道的世界 - OAD 魔法少女☆偶像之星 加侬100%</path>
-  </subs>
-  <subs>
-    <name_chs>只有神知道的世界 - OAD ‘魔法少女☆偶像之星 加侬100%’</name_chs>
-    <name_cht>只有神知道的世界 - OAD ‘魔法少女☆偶像之星 加儂100%’</name_cht>
-    <name_jp>神のみぞ知るセカイ マジカル☆スター かのん100%</name_jp>
-    <name_en>The World God Only Knows Magical Star Kanon</name_en>
-    <name_rome>Kami nomi zo Shiru Sekai Magical Star Kanon</name_rome>
-    <time>2013-06-18T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
     <sub_name>澄空</sub_name>
     <extension>.ass</extension>
     <providers />
@@ -23742,21 +22865,6 @@ DFPOPMix-W5
     <type>animation</type>
     <source>BD</source>
     <sub_name>雪酷</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2013/(2013.7.8)只有神知道的世界 女神篇</path>
-  </subs>
-  <subs>
-    <name_chs>只有神知道的世界 女神篇(第3季)</name_chs>
-    <name_cht>只有神知道的世界 女神篇(第3季)</name_cht>
-    <name_jp>神のみぞ知るセカイ 女神篇</name_jp>
-    <name_en>The World God Only Knows Megami Hen</name_en>
-    <name_rome>Kami nomi zo Shiru Sekai Megami Hen</name_rome>
-    <time>2013-07-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>澄空</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -25716,21 +24824,6 @@ Dialogue: 0,0:00:09.56,0:00:12.78,Default,BDscene,0,0,0,,一定要平安無事 �
     <path>animation/2014/(2014.10.4)魔弹之王与战姬</path>
   </subs>
   <subs>
-    <name_chs>魔弹之王与战姬</name_chs>
-    <name_cht>魔彈之王與戰姬</name_cht>
-    <name_jp>魔弾の王と戦姫</name_jp>
-    <name_en>Madan no Ou to Vanadis</name_en>
-    <name_rome>Madan no o to ouanadisu</name_rome>
-    <time>2014-10-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[DMG][Madan no Ou to Vanadis][01-13][MKV]</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2014/(2014.10.4)魔弹之王与战姬</path>
-  </subs>
-  <subs>
     <name_chs>七大罪(第1季)</name_chs>
     <name_cht>七大罪(第1季)</name_cht>
     <name_jp>七つの大罪</name_jp>
@@ -25756,6 +24849,36 @@ Dialogue: 0,0:00:09.56,0:00:12.78,Default,BDscene,0,0,0,,一定要平安無事 �
 [3]: http://vcb-s.com/archives/4131
 [4]: http://pan.baidu.com/s/1i3CT3Ad</desc>
     <path>animation/2014/(2014.10.5)七大罪</path>
+  </subs>
+  <subs>
+    <name_chs>境界触发者</name_chs>
+    <name_cht>境界觸發者</name_cht>
+    <name_jp>ワールドトリガー</name_jp>
+    <name_en>World Trigger</name_en>
+    <name_rome>World Trigger</name_rome>
+    <time>2014-10-05T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>手抄爱奇艺(EP 49-73)</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2014/(2014.10.5)境界触发者</path>
+  </subs>
+  <subs>
+    <name_chs>境界触发者</name_chs>
+    <name_cht>境界觸發者</name_cht>
+    <name_jp>ワールドトリガー</name_jp>
+    <name_en>World Trigger</name_en>
+    <name_rome>World Trigger</name_rome>
+    <time>2014-10-05T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>豌豆字幕組(EP 01-48)</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2014/(2014.10.5)境界触发者</path>
   </subs>
   <subs>
     <name_chs>天体的秩序</name_chs>
@@ -26659,21 +25782,6 @@ zx353分享了猫物语（白）前3集副音轨字幕
     <path>animation/2014/(2014.4.10)乒乓</path>
   </subs>
   <subs>
-    <name_chs>乒乓</name_chs>
-    <name_cht>乒乓</name_cht>
-    <name_jp>ピンポン THE ANIMATION</name_jp>
-    <name_en>Ping Pong The Animation</name_en>
-    <name_rome>Ping Pong The Animation</name_rome>
-    <time>2014-04-10T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>A.I.R.nesSub</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2014/(2014.4.10)乒乓</path>
-  </subs>
-  <subs>
     <name_chs>希德尼娅的骑士/银河骑士传(第1季)(乳)</name_chs>
     <name_cht>希德尼婭的騎士/銀河騎士傳(第1季)(乳)</name_cht>
     <name_jp>シドニアの騎士</name_jp>
@@ -26848,21 +25956,6 @@ zx353分享了猫物语（白）前3集副音轨字幕
     <type>animation</type>
     <source>BD</source>
     <sub_name>鈴風字幕組</sub_name>
-    <extension>.ass;.txt</extension>
-    <providers />
-    <desc />
-    <path>animation/2014/(2014.4.12)目隐都市的演绎者</path>
-  </subs>
-  <subs>
-    <name_chs>阳炎计划-目隐都市的演绎者/阳炎/KAGEROU DAZE阳炎眩乱</name_chs>
-    <name_cht>陽炎計劃-目隱都市的演繹者/陽炎/KAGEROU DAZE陽炎眩亂</name_cht>
-    <name_jp>メカクシティアクターズ</name_jp>
-    <name_en>Mekaku City Actors</name_en>
-    <name_rome>Mekaku City Actors</name_rome>
-    <time>2014-04-12T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>動漫國字幕組</sub_name>
     <extension>.ass;.txt</extension>
     <providers />
     <desc />
@@ -27704,21 +26797,6 @@ zx353分享了猫物语（白）前3集副音轨字幕
     <path>animation/2014/(2014.7.3)东京食尸鬼</path>
   </subs>
   <subs>
-    <name_chs>东京喰种/东京食尸鬼(第1季)</name_chs>
-    <name_cht>東京喰種/東京食尸鬼(第1季)</name_cht>
-    <name_jp>東京喰種トーキョーグール</name_jp>
-    <name_en>Tokyo Ghoul</name_en>
-    <name_rome>Tokyo Ghoul</name_rome>
-    <time>2014-07-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[诸神字幕组][东京食尸鬼][简繁日双语字幕][TVRIP][720P]</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2014/(2014.7.3)东京食尸鬼</path>
-  </subs>
-  <subs>
     <name_chs>玻璃之唇</name_chs>
     <name_cht>玻璃之唇</name_cht>
     <name_jp>グラスリップ</name_jp>
@@ -27841,15 +26919,15 @@ zx353分享了猫物语（白）前3集副音轨字幕
     <sub_name>Aldnoah.Zero.Kamigami</sub_name>
     <extension>.ass</extension>
     <providers />
-    <desc>��Aldnoah.Zero��BDRip ����˫�������Ļ
+    <desc>《Aldnoah.Zero》BDRip 简日双语外挂字幕
 ======================================
 
-* ��Ļ��������[������Ļ��][1]��
-* �� 01-12 ��ȡ��[������Ļ��� BDRip][2]��
-* �� 13-24 ��ȡ�� [TV �ϼ�][3]������[ANK-Raws&amp;VCB-Studio �� BDRip][4] ����ʱ���ᡣ
-* ��ȱ�� 13 �� 23 �� BD �����Ի���Ļ��
-* ������Ļ����ֱ���Ϊ 1920 X 1080�����ݸ���ϲ��ͳһ�˷������壬��Ҫ���ذ�װ[�����][5]��
-* �����κβ���֮����[��������ϵ](690951009@qq.com)��
+* 字幕的作者是[诸神字幕组][1]。
+* 第 01-12 话取自[诸神字幕组的 BDRip][2]。
+* 第 13-24 话取自 [TV 合集][3]，根据[ANK-Raws&amp;VCB-Studio 的 BDRip][4] 调整时间轴。
+* 暂缺第 13 和 23 话 BD 新增对话字幕。
+* 所有字幕重设分辨率为 1920 X 1080，根据个人喜好统一了风格和字体，需要下载安装[字体包][5]。
+* 如有任何不当之处，[请与我联系](690951009@qq.com)。
 
 [1]: http://www.kamigami.org/
 [2]: http://i.kamigami.org/797.html
@@ -27942,21 +27020,6 @@ zx353分享了猫物语（白）前3集副音轨字幕
     <time>2014-07-06T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>F宅</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2014/(2014.7.6)法兰雀丝卡</path>
-  </subs>
-  <subs>
-    <name_chs>法兰雀丝卡</name_chs>
-    <name_cht>法蘭雀絲卡</name_cht>
-    <name_jp>フランチェスカ</name_jp>
-    <name_en>Francesca</name_en>
-    <name_rome>Francesca</name_rome>
-    <time>2014-07-06T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
     <sub_name>F宅</sub_name>
     <extension>.ass</extension>
     <providers />
@@ -28530,6 +27593,21 @@ zx353分享了猫物语（白）前3集副音轨字幕
     <time>2014-09-28T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
+    <sub_name>OAD 1-8</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2014/(2014.9.28)进击的巨人 OAD</path>
+  </subs>
+  <subs>
+    <name_chs>进击的巨人 OAD</name_chs>
+    <name_cht>進擊的巨人 OAD</name_cht>
+    <name_jp>進撃の巨人 OAD</name_jp>
+    <name_en>Attack on Titan OAD</name_en>
+    <name_rome>Shingeki no Kyojin OAD</name_rome>
+    <time>2014-09-28T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
     <sub_name>Shingeki no Kyojin</sub_name>
     <extension>.txt</extension>
     <providers />
@@ -28712,36 +27790,6 @@ K.N.L.A.万岁!二次元人民大团结万岁!</desc>
     <source>BD</source>
     <sub_name>自由字幕组&amp;茉语月夜</sub_name>
     <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2015/(2015.1.11)战国无双</path>
-  </subs>
-  <subs>
-    <name_chs>战国无双</name_chs>
-    <name_cht>戰國無雙</name_cht>
-    <name_jp>戦国無双</name_jp>
-    <name_en>Sengoku Musou</name_en>
-    <name_rome>Sengoku Musou</name_rome>
-    <time>2015-01-11T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>光荣字幕组</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2015/(2015.1.11)战国无双</path>
-  </subs>
-  <subs>
-    <name_chs>战国无双</name_chs>
-    <name_cht>戰國無雙</name_cht>
-    <name_jp>戦国無双</name_jp>
-    <name_en>Sengoku Musou</name_en>
-    <name_rome>Sengoku Musou</name_rome>
-    <time>2015-01-11T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>自由字幕组&amp;茉语月夜</sub_name>
-    <extension />
     <providers />
     <desc />
     <path>animation/2015/(2015.1.11)战国无双</path>
@@ -30609,19 +29657,94 @@ Subs文件夹放在视频同目录下，MPC-HC/xy-Subfilter等能自动读取哦
     <path>animation/2015/(2015.4.4)可塑性记忆</path>
   </subs>
   <subs>
-    <name_chs>可塑性记忆/塑成型记忆/塑料内存条</name_chs>
-    <name_cht>可塑性記憶/塑成型記憶/塑料內存條</name_cht>
-    <name_jp>プラスティック・メモリーズ</name_jp>
-    <name_en>Plastic Memories</name_en>
-    <name_rome>Plastic Memories</name_rome>
+    <name_chs>小长门有希的消失</name_chs>
+    <name_cht>小長門有希的消失</name_cht>
+    <name_jp>長門有希ちゃんの消失</name_jp>
+    <name_en>Nagato Yuki-chan no Shoushitsu</name_en>
+    <name_rome>Nagato Yuki-chan no Shoushitsu</name_rome>
     <time>2015-04-04T00:00:00+08:00</time>
     <type>animation</type>
-    <source>TV</source>
-    <sub_name>[中文字幕全版本][内附字体][V2]</sub_name>
-    <extension>.txt</extension>
+    <source>BD</source>
+    <sub_name>sub [完][2015.04][The Disappearance of Nagato Yuki-chan][小長門有希的消失][01_16</sub_name>
+    <extension>.ass</extension>
     <providers />
     <desc />
-    <path>animation/2015/(2015.4.4)可塑性记忆</path>
+    <path>animation/2015/(2015.4.4)小长门有希的消失</path>
+  </subs>
+  <subs>
+    <name_chs>小长门有希的消失</name_chs>
+    <name_cht>小長門有希的消失</name_cht>
+    <name_jp>長門有希ちゃんの消失</name_jp>
+    <name_en>Nagato Yuki-chan no Shoushitsu</name_en>
+    <name_rome>Nagato Yuki-chan no Shoushitsu</name_rome>
+    <time>2015-04-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Baha] Nagato Yuki-chan no Shoushitsu [1-16 Fin]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2015/(2015.4.4)小长门有希的消失</path>
+  </subs>
+  <subs>
+    <name_chs>小长门有希的消失</name_chs>
+    <name_cht>小長門有希的消失</name_cht>
+    <name_jp>長門有希ちゃんの消失</name_jp>
+    <name_en>Nagato Yuki-chan no Shoushitsu</name_en>
+    <name_rome>Nagato Yuki-chan no Shoushitsu</name_rome>
+    <time>2015-04-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[DHR&amp;DMG&amp;FZsub]小长门有希的消失</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2015/(2015.4.4)小长门有希的消失</path>
+  </subs>
+  <subs>
+    <name_chs>小长门有希的消失</name_chs>
+    <name_cht>小長門有希的消失</name_cht>
+    <name_jp>長門有希ちゃんの消失</name_jp>
+    <name_en>Nagato Yuki-chan no Shoushitsu</name_en>
+    <name_rome>Nagato Yuki-chan no Shoushitsu</name_rome>
+    <time>2015-04-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Moozzi2] Nagato Yuki-chan no Shoushitsu - TV   OAD [ Rework Ver. ][Sub TC]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2015/(2015.4.4)小长门有希的消失</path>
+  </subs>
+  <subs>
+    <name_chs>小长门有希的消失</name_chs>
+    <name_cht>小長門有希的消失</name_cht>
+    <name_jp>長門有希ちゃんの消失</name_jp>
+    <name_en>Nagato Yuki-chan no Shoushitsu</name_en>
+    <name_rome>Nagato Yuki-chan no Shoushitsu</name_rome>
+    <time>2015-04-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[VCB-Studio] Nagato Yuki-chan no Shoushitsu [Ma10p_1080p].SC.Subtitle</sub_name>
+    <extension>.ass;.otf</extension>
+    <providers />
+    <desc />
+    <path>animation/2015/(2015.4.4)小长门有希的消失</path>
+  </subs>
+  <subs>
+    <name_chs>小长门有希的消失</name_chs>
+    <name_cht>小長門有希的消失</name_cht>
+    <name_jp>長門有希ちゃんの消失</name_jp>
+    <name_en>Nagato Yuki-chan no Shoushitsu</name_en>
+    <name_rome>Nagato Yuki-chan no Shoushitsu</name_rome>
+    <time>2015-04-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[VCB-Studio] Nagato Yuki-chan no Shoushitsu [Ma10p_1080p].TC.Subtitle</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2015/(2015.4.4)小长门有希的消失</path>
   </subs>
   <subs>
     <name_chs>恶魔高校D×D BorN/高校龙中龙/High School DxD BorN(乳)(第3季)</name_chs>
@@ -30667,21 +29790,6 @@ Subs文件夹放在视频同目录下，MPC-HC/xy-Subfilter等能自动读取哦
     <providers />
     <desc />
     <path>animation/2015/(2015.4.4)恶魔高校 High School DxD BorN</path>
-  </subs>
-  <subs>
-    <name_chs>摸索吧！部活剧 第三期</name_chs>
-    <name_cht>摸索吧！部活劇 第三期</name_cht>
-    <name_jp>てさぐれ！部活もの すぴんおふ プルプルんシャルムと遊ぼう</name_jp>
-    <name_en>Tesagure! Bukatsumono Spin-off Purupurun Sharumu to Asobou</name_en>
-    <name_rome>Tesagure! Bukatsumono Spin-off Purupurun Sharumu to Asobou</name_rome>
-    <time>2015-04-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>BD</source>
-    <sub_name>英语字幕</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2015/(2015.4.4)摸索吧！部活劇 Spinoff 和噗嚕噗嚕夏露姆遊玩吧</path>
   </subs>
   <subs>
     <name_chs>电波教师</name_chs>
@@ -30768,21 +29876,6 @@ Subs文件夹放在视频同目录下，MPC-HC/xy-Subfilter等能自动读取哦
     <type>animation</type>
     <source>BD</source>
     <sub_name>诸神字幕组</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2015/(2015.4.4)终结的炽天使</path>
-  </subs>
-  <subs>
-    <name_chs>终结的炽天使</name_chs>
-    <name_cht>終結的熾天使</name_cht>
-    <name_jp>終わりのセラフ</name_jp>
-    <name_en>Seraph of the End</name_en>
-    <name_rome>Owari no Seraph</name_rome>
-    <time>2015-04-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>自由字幕组</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -31024,36 +30117,6 @@ Subs文件夹放在视频同目录下，MPC-HC/xy-Subfilter等能自动读取哦
     <source>BD</source>
     <sub_name>论坛QPet [VCB-Studio] 吹响！悠风号 完整版 简繁</sub_name>
     <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2015/(2015.4.7)吹响吧！上低音号</path>
-  </subs>
-  <subs>
-    <name_chs>吹响吧！上低音号(第1季)</name_chs>
-    <name_cht>吹響吧！上低音號(第1季)</name_cht>
-    <name_jp>響け! ユーフォニアム</name_jp>
-    <name_en>Sound! Euphonium</name_en>
-    <name_rome>Hibike! Euphonium</name_rome>
-    <time>2015-04-07T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[诸神字幕组][吹响吧！上低音号 Hibike! Euphonium][简繁日双语字幕]</sub_name>
-    <extension>.txt</extension>
-    <providers />
-    <desc />
-    <path>animation/2015/(2015.4.7)吹响吧！上低音号</path>
-  </subs>
-  <subs>
-    <name_chs>吹响吧！上低音号(第1季)</name_chs>
-    <name_cht>吹響吧！上低音號(第1季)</name_cht>
-    <name_jp>響け! ユーフォニアム</name_jp>
-    <name_en>Sound! Euphonium</name_en>
-    <name_rome>Hibike! Euphonium</name_rome>
-    <time>2015-04-07T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[雪飘工作室][吹响吧！上低音号 Hibike! Euphonium][简繁外挂字幕][01-13][TVRIP][720P]</sub_name>
-    <extension>.ass;.txt</extension>
     <providers />
     <desc />
     <path>animation/2015/(2015.4.7)吹响吧！上低音号</path>
@@ -31976,182 +31039,6 @@ http://subhd.com/ar0/364043
     <extension>.ass</extension>
     <providers />
     <desc />
-    <path>animation/2015/(2015.7.4)夏洛特 Charlotte</path>
-  </subs>
-  <subs>
-    <name_chs>夏洛特 Charlotte</name_chs>
-    <name_cht>夏洛特 Charlotte</name_cht>
-    <name_jp>シャーロット</name_jp>
-    <name_en>Charlotte</name_en>
-    <name_rome>Charlotte</name_rome>
-    <time>2015-07-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[TUcaptions字幕组][Charlotte 夏洛特][繁体外挂字幕][01-13][TVrip][1080P]</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc>之前传的那个中文字幕压缩包合集有数据丢失，故在此重发一次。。。_(:зゝ∠)_
-subhd备份下载地址：
-http://subhd.com/ar0/364162
-
-欢迎各位加入个人字幕收集群：100303903
-啥时有空再把Angel Beats!的坑给填了，Charlotte的国内组外挂字幕备份到这程度应该足够了。
-
-Charlotte国外组外挂特效字幕打包下载：
-[七国字幕-国外组][Charlotte 夏洛特][外挂特效字幕][01-13+OVA][BD+TV]
-http://subhd.com/ar0/364043
-
-（如果链接爆破请自己去根据下面的【字体名称列表】寻找所需字体）
-
-链接：http://pan.baidu.com/s/1hsGCwFq
-密码：a42u
-
-A-OTF Kyoukasho ICA Pro R
-A-OTF Shin Go Pr5 R
-A-OTF TakaHand Std M
-Birdman
-DFKaiSho-Md &amp; DFPKaiSho-Md &amp; DFGKaiSho-Md
-DFMinchoP-W5 &amp;DFPMinchoP-W5 &amp; DFGMinchoP-W5
-HanaMinA
-Meiryo
-MV Boli
-標楷體
-華康榜書體W8 &amp; 華康榜書體W8(P)
-華康粗黑體 &amp; 華康粗黑體(P)
-華康粗明體 &amp; 華康粗明體(P)
-華康粗圓體 &amp; 華康粗圓體(P)
-華康仿宋體W6 &amp; 華康仿宋體W6(P)
-華康華綜體W5 &amp; 華康華綜體W5(P)
-華康儷中宋 &amp; 華康儷中宋(P)
-華康刷刷體W7 &amp; 華康刷刷體W7(P)
-華康娃娃體 &amp; 華康娃娃體(P)
-華康細黑體 &amp; 華康細黑體(P)
-華康新特明體 &amp; 華康新特明體(P)
-華康正顏楷體W7 &amp; 華康正顏楷體W7(P)
-華康中黑體 &amp; 華康中黑體(P)
-華康中特圓體 &amp; 華康中特圓體(P)
-華康中圓體 &amp; 華康中圓體(P)
-華康宗楷體W7 &amp;華康宗楷體W7(P)</desc>
-    <path>animation/2015/(2015.7.4)夏洛特 Charlotte</path>
-  </subs>
-  <subs>
-    <name_chs>夏洛特 Charlotte</name_chs>
-    <name_cht>夏洛特 Charlotte</name_cht>
-    <name_jp>シャーロット</name_jp>
-    <name_en>Charlotte</name_en>
-    <name_rome>Charlotte</name_rome>
-    <time>2015-07-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[动漫国字幕组][Charlotte 夏洛特][简繁外挂字幕][01-13+预告 01-13][TVrip][720P]</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc>之前传的那个中文字幕压缩包合集有数据丢失，故在此重发一次。。。_(:зゝ∠)_
-subhd备份下载地址：
-http://subhd.com/ar0/364162
-
-欢迎各位加入个人字幕收集群：100303903
-啥时有空再把Angel Beats!的坑给填了，Charlotte的国内组外挂字幕备份到这程度应该足够了。
-
-Charlotte国外组外挂特效字幕打包下载：
-[七国字幕-国外组][Charlotte 夏洛特][外挂特效字幕][01-13+OVA][BD+TV]
-http://subhd.com/ar0/364043
-
-（如果链接爆破请自己去根据下面的【字体名称列表】寻找所需字体）
-
-链接：http://pan.baidu.com/s/1mhMtB0s
-密码：rfuw
-
-DFCraftSumi-W9 &amp; DFPCraftSumi-W9 &amp; DFGCraftSumi-W9
-DFMaruGothic-Lt &amp; DFPMaruGothic-Lt &amp; DFGMaruGothic-Lt
-DFMaruGothic-Md &amp; DFPMaruGothic-Md &amp; DFGMaruGothic-Md
-DFSoGei-W5 &amp; DFPSoGei-W5 &amp; DFGSoGei-W5
-方正报宋_GBK
-方正粗圆_GBK
-方正古隶_GBK
-方正华隶_GBK
-方正兰亭中黑_GBK
-方正隶变_GBK
-方正书宋_GBK
-方正宋三_GBK
-方正小标宋_GBK
-方正硬笔楷书简体
-方正准圆_GBK
-方正综艺_GBK</desc>
-    <path>animation/2015/(2015.7.4)夏洛特 Charlotte</path>
-  </subs>
-  <subs>
-    <name_chs>夏洛特 Charlotte</name_chs>
-    <name_cht>夏洛特 Charlotte</name_cht>
-    <name_jp>シャーロット</name_jp>
-    <name_en>Charlotte</name_en>
-    <name_rome>Charlotte</name_rome>
-    <time>2015-07-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[恶魔岛字幕组][Charlotte 夏洛特][简繁外挂字幕][01-13][TVrip][720P]</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc>之前传的那个中文字幕压缩包合集有数据丢失，故在此重发一次。。。_(:зゝ∠)_
-subhd备份下载地址：
-http://subhd.com/ar0/364162
-
-欢迎各位加入个人字幕收集群：100303903
-啥时有空再把Angel Beats!的坑给填了，Charlotte的国内组外挂字幕备份到这程度应该足够了。
-
-Charlotte国外组外挂特效字幕打包下载：
-[七国字幕-国外组][Charlotte 夏洛特][外挂特效字幕][01-13+OVA][BD+TV]
-http://subhd.com/ar0/364043
-
-（如果链接爆破请自己去根据下面的【字体名称列表】寻找所需字体）
-
-链接：http://pan.baidu.com/s/1bOFTyI
-密码：s8xm
-
-方正粗圆_GBK
-方正小标宋_GBK
-方正准圆_GBK</desc>
-    <path>animation/2015/(2015.7.4)夏洛特 Charlotte</path>
-  </subs>
-  <subs>
-    <name_chs>夏洛特 Charlotte</name_chs>
-    <name_cht>夏洛特 Charlotte</name_cht>
-    <name_jp>シャーロット</name_jp>
-    <name_en>Charlotte</name_en>
-    <name_rome>Charlotte</name_rome>
-    <time>2015-07-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[诸神字幕组][Charlotte 夏洛特][简繁日双语字幕][01-13][TVrip][1080P]</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc>之前传的那个中文字幕压缩包合集有数据丢失，故在此重发一次。。。_(:зゝ∠)_
-subhd备份下载地址：
-http://subhd.com/ar0/364162
-
-欢迎各位加入个人字幕收集群：100303903
-啥时有空再把Angel Beats!的坑给填了，Charlotte的国内组外挂字幕备份到这程度应该足够了。
-
-Charlotte国外组外挂特效字幕打包下载：
-[七国字幕-国外组][Charlotte 夏洛特][外挂特效字幕][01-13+OVA][BD+TV]
-http://subhd.com/ar0/364043
-
-（如果链接爆破请自己去根据下面的【字体名称列表】寻找所需字体）
-
-链接：http://pan.baidu.com/s/1c2h8DKs
-密码：rle5
-
-G-OTF Kyoukasho ICA Pro M
-G-OTF Shin maru Go Pro M
-G-OTF Shin maru Go Pro R
-MS Mincho &amp; MS PMincho
-方正北魏楷书_GBK
-方正大标宋_GBK
-方正细圆_GBK
-方正小标宋_GBK
-方正准圆_GBK
-华文宋体
-华文细黑</desc>
     <path>animation/2015/(2015.7.4)夏洛特 Charlotte</path>
   </subs>
   <subs>
@@ -34273,21 +33160,6 @@ DFHSMaruGothic-W4
     <path>animation/2016/(2016.10.8)三月的狮子</path>
   </subs>
   <subs>
-    <name_chs>三月的狮子/3月的狮子(第1季)</name_chs>
-    <name_cht>三月的獅子/3月的獅子(第1季)</name_cht>
-    <name_jp>3月のライオン</name_jp>
-    <name_en>March Comes in Like a Lion</name_en>
-    <name_rome>3-gatsu no Lion</name_rome>
-    <time>2016-10-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[FLsnow][3lion][BDrip][01-22][CHS&amp;CHT][ASS]</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2016/(2016.10.8)三月的狮子</path>
-  </subs>
-  <subs>
     <name_chs>超自然9人组</name_chs>
     <name_cht>超自然9人組</name_cht>
     <name_jp>オカルティック・ナイン</name_jp>
@@ -35098,21 +33970,6 @@ DFHSMaruGothic-W4
     <path>animation/2016/(2016.4.3)我的英雄学院 S1</path>
   </subs>
   <subs>
-    <name_chs>机动战士高达UC RE:0096</name_chs>
-    <name_cht>機動戰士鋼彈UC RE:0096</name_cht>
-    <name_jp>機動戦士ガンダムUC RE:0096</name_jp>
-    <name_en>Mobile Suit Gundam Unicorn RE:0096</name_en>
-    <name_rome>Kidō Senshi Gandamu Yunikōn RE:0096</name_rome>
-    <time>2016-04-03T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>漫游字幕组</sub_name>
-    <extension>.ass;.txt</extension>
-    <providers />
-    <desc />
-    <path>animation/2016/(2016.4.3)机动战士高达UC RE：0096</path>
-  </subs>
-  <subs>
     <name_chs>熊巫女/当女孩遇到熊</name_chs>
     <name_cht>熊巫女/當女孩遇到熊</name_cht>
     <name_jp>くまみこ</name_jp>
@@ -35392,21 +34249,6 @@ DFHSMaruGothic-W4
     <type>animation</type>
     <source>BD</source>
     <sub_name>喵萌奶茶屋（仅OVA）</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2016/(2016.4.9)青春波纹 高校舰队</path>
-  </subs>
-  <subs>
-    <name_chs>高校舰队/青春波纹</name_chs>
-    <name_cht>高校艦隊/青春波紋</name_cht>
-    <name_jp>ハイスクール・フリート</name_jp>
-    <name_en>High School Fleet</name_en>
-    <name_rome>High School Fleet</name_rome>
-    <time>2016-04-09T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>花語&amp;千夏字幕組</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -36279,41 +35121,41 @@ DFHSMaruGothic-W4
     <sub_name>你的名字</sub_name>
     <extension>.ass</extension>
     <providers />
-    <desc>����Ļ�׷�����ϸ���۵�ַ��
+    <desc>此字幕首发及详细讨论地址：
 http://bbs.saraba1st.com/2b/thread-1472067-1-1.html
-���ڸ���ĻЧ��Ԥ��ͼ�����и��¸Ľ���Ҳ�ǵ�һʱ��ķ�����ַ��
+（内附字幕效果预览图，如有更新改进，也是第一时间的发布地址）
 
-����Ļ��������2017.02.05����4.1��
+该字幕发布日期2017.02.05，第4.1版
 
 
-ƥ����Ƶ�汾��
+匹配视频版本：
 your_name_2016_hdrip_1080p_HC_eng_sub_AAC_x264_mp4.mp4
 
-ѹ�����ڵ�
+压缩包内的
 
-�ļ�
+文件
 your_name_2016_hdrip_1080p_HC_eng_sub_AAC_x264_mp4.sc_v4.1.ass
-Ϊ���ް���Ļ������ϸ���ݼ�ע�ͣ�
+为精修版字幕（含详细考据及注释）
 
-�ļ�
+文件
 your_name_2016_hdrip_1080p_HC_eng_sub_AAC_x264_mp4.sc_v4.1_Clear
-Ϊ��������Ļ��ȥ��Ǳ�Ҫע�ͣ�
+为纯净版字幕（去掉非必要注释）
 
-�����а�ϲ��ѡ��
-
-
-�õ������壺΢���źڡ�����׼Բ_GBK��������κ���顢������ͨ���塢��������W5(P)���ģ���̫������
-��������أ�http://pan.baidu.com/s/1boNoudx
-��Ļ������ʾЧ������ȷ������ɳ��԰�װ��������ٹ�����Ʒ
+可自行按喜好选择
 
 
-Ϊ������Ŀǰ��Ӣ��Ӳ��Ļ��1080i�汾������������BD���˿����ٵ���ʱ�����ط�
+用到的字体：微软雅黑、方正准圆_GBK、方正北魏楷书、方正卡通简体、华康楷体W5(P)、ＤＦ中太楷書体
+字体包下载：http://pan.baidu.com/s/1boNoudx
+字幕遇到显示效果不正确的问题可尝试安装字体包后再观赏作品
 
-����������������������������
 
-�����ͨ�����������ᣬ������Դ�Դ�Ӣ����Ļ������������Ļ�Ļ��������׵��»����ϵ����ֲ�ͬ��Ļ���ֺ���ʧʱ�䲻ͬ��������������Щ���ҡ�
-����Ϊ����������Ļ��Ӣ����Ļ�ڻ�������ͬ�����ֺ���ʧ���һ�����һ֡һ֡�İ�������ͬ����������Ļ���г����ҶϾ�ɶ̾��������⣬��������Ҳ���öϾ�ĵ�һ����Ļ��Ӣ����Ļͬ�����֣����һ��ͬ����ʧ�����⹤�������ͦ���...
-��ʷ��棬��Ҫ���ۺ���YN009�汾�ĸ�ʷ���������������ϵķ��롣���Ǹ�ȡ�����̰ɡ��Ҿ��þ�����һ���ǳ�����Ƭ��������������������������Ʒ�����Ը�ʷ�������ϣ����������ĵط�</desc>
+为了适配目前带英文硬字幕的1080i版本而作，将来有BD版了可能再调整时间轴重发
+
+——————————————
+
+相比于通常的听声打轴，由于这源自带英文字幕，再做中文字幕的话，很容易导致画面上的两种不同字幕出现和消失时间不同步，看起来会有些混乱。
+所以为了让中文字幕与英文字幕在画面上能同步出现和消失，我基本是一帧一帧的按画面来同步了两种字幕（有长句我断句成短句的情况除外，不过这种也会让断句的第一条字幕和英文字幕同步出现，最后一条同步消失），这工作量真的挺大的...
+歌词方面，主要是综合了YN009版本的歌词翻译和网易云音乐上的翻译。算是各取长补短吧。我觉得君名是一部非常依靠片中人声曲来带动观众情绪的作品，所以歌词方面是最希望多提意见的地方</desc>
     <path>animation/2016/(2016.8.26)你的名字</path>
   </subs>
   <subs>
@@ -36372,6 +35214,21 @@ your_name_2016_hdrip_1080p_HC_eng_sub_AAC_x264_mp4.sc_v4.1_Clear
     <source>BD</source>
     <sub_name>DMG</sub_name>
     <extension />
+    <providers />
+    <desc />
+    <path>animation/2016/(2016.9.10)魔法使的新娘</path>
+  </subs>
+  <subs>
+    <name_chs>魔法使的新娘</name_chs>
+    <name_cht>魔法使的新娘</name_cht>
+    <name_jp>魔法使いの嫁</name_jp>
+    <name_en>The Ancient Magus Bride</name_en>
+    <name_rome>Mahou Tsukai no Yome</name_rome>
+    <time>2016-09-10T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>OAD</sub_name>
+    <extension>.ass</extension>
     <providers />
     <desc />
     <path>animation/2016/(2016.9.10)魔法使的新娘</path>
@@ -37022,66 +35879,6 @@ your_name_2016_hdrip_1080p_HC_eng_sub_AAC_x264_mp4.sc_v4.1_Clear
     <path>animation/2017/(2017.1.8)银魂。</path>
   </subs>
   <subs>
-    <name_chs>银魂.</name_chs>
-    <name_cht>銀魂.</name_cht>
-    <name_jp>銀魂.</name_jp>
-    <name_en>Gintama (2017)</name_en>
-    <name_rome>Gintama (2017)</name_rome>
-    <time>2017-01-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>317-327 (LAC)</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2017/(2017.1.8)银魂。</path>
-  </subs>
-  <subs>
-    <name_chs>银魂.</name_chs>
-    <name_cht>銀魂.</name_cht>
-    <name_jp>銀魂.</name_jp>
-    <name_en>Gintama (2017)</name_en>
-    <name_rome>Gintama (2017)</name_rome>
-    <time>2017-01-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>328-341 (Google陆亩)</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2017/(2017.1.8)银魂。</path>
-  </subs>
-  <subs>
-    <name_chs>银魂.</name_chs>
-    <name_cht>銀魂.</name_cht>
-    <name_jp>銀魂.</name_jp>
-    <name_en>Gintama (2017)</name_en>
-    <name_rome>Gintama (2017)</name_rome>
-    <time>2017-01-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>328-341 (HorribleSubs 璣ゅ)</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2017/(2017.1.8)银魂。</path>
-  </subs>
-  <subs>
-    <name_chs>银魂.</name_chs>
-    <name_cht>銀魂.</name_cht>
-    <name_jp>銀魂.</name_jp>
-    <name_en>Gintama (2017)</name_en>
-    <name_rome>Gintama (2017)</name_rome>
-    <time>2017-01-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>342-367 (BeanSub)</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2017/(2017.1.8)银魂。</path>
-  </subs>
-  <subs>
     <name_chs>废天使加百列/珈百璃的堕落</name_chs>
     <name_cht>廢天使加百列/珈百璃的墮落</name_cht>
     <name_jp>ガヴリールドロップアウト</name_jp>
@@ -37314,21 +36111,6 @@ FOT-Skip Std B
     <path>animation/2017/(2017.10.14)三月的狮子 S2</path>
   </subs>
   <subs>
-    <name_chs>三月的狮子/3月的狮子(第2季)</name_chs>
-    <name_cht>三月的獅子/3月的獅子(第2季)</name_cht>
-    <name_jp>3月のライオン S2</name_jp>
-    <name_en>March Comes in Like a Lion S2</name_en>
-    <name_rome>3-gatsu no Lion S2</name_rome>
-    <time>2017-10-14T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[FLsnow][3lion][BDrip][23-44][CHS&amp;CHT][ASS]</sub_name>
-    <extension />
-    <providers />
-    <desc />
-    <path>animation/2017/(2017.10.14)三月的狮子 S2</path>
-  </subs>
-  <subs>
     <name_chs>Code Geass 反叛的鲁路修：兴道（剧场版动画，总篇集）</name_chs>
     <name_cht>Code Geass 反叛的魯路修：興道（劇場版動畫，總篇集）</name_cht>
     <name_jp>コードギアス 反逆のルルーシュ I 興道</name_jp>
@@ -37479,21 +36261,6 @@ FOT-Skip Std B
     <path>animation/2017/(2017.10.6)少女终末旅行</path>
   </subs>
   <subs>
-    <name_chs>少女终末旅行</name_chs>
-    <name_cht>少女終末旅行</name_cht>
-    <name_jp>少女終末旅行</name_jp>
-    <name_en>Shoujo Shuumatsu Ryokou</name_en>
-    <name_rome>Shoujo Shuumatsu Ryokou</name_rome>
-    <time>2017-10-06T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>Shoujo Shuumatsu Ryokou</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2017/(2017.10.6)少女终末旅行</path>
-  </subs>
-  <subs>
     <name_chs>结城友奈是勇者 -鹫尾须美之章-(第2季)</name_chs>
     <name_cht>結城友奈是勇者 -鷲尾須美之章-(第2季)</name_cht>
     <name_jp>結城友奈は勇者である -鷲尾須美の章-</name_jp>
@@ -37532,21 +36299,6 @@ FOT-Skip Std B
     <time>2017-10-07T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>[LoliHouse]</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2017/(2017.10.7)Blend S 调教咖啡厅</path>
-  </subs>
-  <subs>
-    <name_chs>Blend S/调教咖啡厅</name_chs>
-    <name_cht>Blend S/調教咖啡廳</name_cht>
-    <name_jp>ブレンド・S</name_jp>
-    <name_en>Blend S</name_en>
-    <name_rome>Blend S</name_rome>
-    <time>2017-10-07T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
     <sub_name>[LoliHouse]</sub_name>
     <extension>.ass</extension>
     <providers />
@@ -37699,21 +36451,6 @@ FOT-Skip Std B
     <source>BD</source>
     <sub_name>[2的召唤][Himouto! Umaru-chan R]</sub_name>
     <extension />
-    <providers />
-    <desc />
-    <path>animation/2017/(2017.10.8)干物妹！小埋R</path>
-  </subs>
-  <subs>
-    <name_chs>干物妹！小埋R(第2季)</name_chs>
-    <name_cht>干物妹！小埋R(第2季)</name_cht>
-    <name_jp>干物妹！うまるちゃんR</name_jp>
-    <name_en>Himouto! Umaru-chan R</name_en>
-    <name_rome>Himouto! Umaru-chan R</name_rome>
-    <time>2017-10-08T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>WEB</sub_name>
-    <extension>.ass</extension>
     <providers />
     <desc />
     <path>animation/2017/(2017.10.8)干物妹！小埋R</path>
@@ -39096,36 +37833,6 @@ FOT-Skip Std B
     <extension>.ass</extension>
     <providers>woyou365</providers>
     <desc>VCB-Studio分享论坛@woyou365手抄</desc>
-    <path>animation/2017/(2017.7.12)第一次的辣妹</path>
-  </subs>
-  <subs>
-    <name_chs>第一次的辣妹/辣妹与我的第一次</name_chs>
-    <name_cht>第一次的辣妹/辣妹與我的第一次</name_cht>
-    <name_jp>はじめてのギャル</name_jp>
-    <name_en>My First Girlfriend Is a Gal</name_en>
-    <name_rome>Hajimete no Gal</name_rome>
-    <time>2017-07-12T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[第一次的辣妹][Hajimete no Gal][TV 01-10   OAD 1][GB][v2]</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2017/(2017.7.12)第一次的辣妹</path>
-  </subs>
-  <subs>
-    <name_chs>第一次的辣妹/辣妹与我的第一次</name_chs>
-    <name_cht>第一次的辣妹/辣妹與我的第一次</name_cht>
-    <name_jp>はじめてのギャル</name_jp>
-    <name_en>My First Girlfriend Is a Gal</name_en>
-    <name_rome>Hajimete no Gal</name_rome>
-    <time>2017-07-12T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>第一次的gal[720P][TV轴]</sub_name>
-    <extension>.ssa</extension>
-    <providers />
-    <desc />
     <path>animation/2017/(2017.7.12)第一次的辣妹</path>
   </subs>
   <subs>
@@ -40524,6 +39231,36 @@ FOT-Skip Std B
     <path>animation/2018/(2018.1.8)刻刻</path>
   </subs>
   <subs>
+    <name_chs>擅长捉弄人的高木同学</name_chs>
+    <name_cht>擅長捉弄人的高木同學</name_cht>
+    <name_jp>からかい上手の高木さん</name_jp>
+    <name_en>Teasing Master Takagi-san</name_en>
+    <name_rome>Karakai Jouzu no Takagi-san</name_rome>
+    <time>2018-01-08T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>千夏字幕组</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2018/(2018.1.8)擅长捉弄人的高木同学</path>
+  </subs>
+  <subs>
+    <name_chs>擅长捉弄人的高木同学</name_chs>
+    <name_cht>擅長捉弄人的高木同學</name_cht>
+    <name_jp>からかい上手の高木さん</name_jp>
+    <name_en>Teasing Master Takagi-san</name_en>
+    <name_rome>Karakai Jouzu no Takagi-san</name_rome>
+    <time>2018-01-08T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>悠哈璃羽字幕社</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2018/(2018.1.8)擅长捉弄人的高木同学</path>
+  </subs>
+  <subs>
     <name_chs>龙王的工作！</name_chs>
     <name_cht>龍王的工作！</name_cht>
     <name_jp>りゅうおうのおしごと!</name_jp>
@@ -41133,7 +39870,7 @@ FOT-Skip Std B
     <type>animation</type>
     <source>BD</source>
     <sub_name>轻之国度字幕组</sub_name>
-    <extension>.ass</extension>
+    <extension />
     <providers />
     <desc />
     <path>animation/2018/(2018.10.7)Anima Yell!</path>
@@ -41568,21 +40305,6 @@ FOT-Skip Std B
     <type>animation</type>
     <source>BD</source>
     <sub_name>ASS</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2018/(2018.4.12)桧曾根与玛索丹／飞龙女孩</path>
-  </subs>
-  <subs>
-    <name_chs>飞龙女孩/甘粕与与间租谭/桧曾根与玛索丹</name_chs>
-    <name_cht>飛龍女孩/甘粕與與間租譚/檜曾根與瑪索丹</name_cht>
-    <name_jp>ひそねとまそたん</name_jp>
-    <name_en>Hisone to Masotan</name_en>
-    <name_rome>Hisone to Masotan</name_rome>
-    <time>2018-04-12T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>[NETFLIX][DRAGON PILOT - Hisone and Masotan][Webrip][01-12 Fin][Big5][ASS] (繁化</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -42260,7 +40982,52 @@ FOT-Skip Std B
     <time>2018-07-12T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
+    <sub_name>OVA</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2018/(2018.7.12)少女☆歌剧Revue Starlight</path>
+  </subs>
+  <subs>
+    <name_chs>少女☆歌剧Revue Starlight</name_chs>
+    <name_cht>少女☆歌劇Revue Starlight</name_cht>
+    <name_jp>少女☆歌劇 レヴュー・スタァライト</name_jp>
+    <name_en>Girls' Opera Revue Starlight</name_en>
+    <name_rome>Shōjo Kageki Revyū Sutāraito</name_rome>
+    <time>2018-07-12T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
     <sub_name>动漫国&amp;茉语星梦</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2018/(2018.7.12)少女☆歌剧Revue Starlight</path>
+  </subs>
+  <subs>
+    <name_chs>少女☆歌剧Revue Starlight</name_chs>
+    <name_cht>少女☆歌劇Revue Starlight</name_cht>
+    <name_jp>少女☆歌劇 レヴュー・スタァライト</name_jp>
+    <name_en>Girls' Opera Revue Starlight</name_en>
+    <name_rome>Shōjo Kageki Revyū Sutāraito</name_rome>
+    <time>2018-07-12T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>喵萌奶茶屋</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2018/(2018.7.12)少女☆歌剧Revue Starlight</path>
+  </subs>
+  <subs>
+    <name_chs>少女☆歌剧Revue Starlight</name_chs>
+    <name_cht>少女☆歌劇Revue Starlight</name_cht>
+    <name_jp>少女☆歌劇 レヴュー・スタァライト</name_jp>
+    <name_en>Girls' Opera Revue Starlight</name_en>
+    <name_rome>Shōjo Kageki Revyū Sutāraito</name_rome>
+    <time>2018-07-12T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>短篇动画</sub_name>
     <extension />
     <providers />
     <desc />
@@ -42679,6 +41446,21 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2018/(2018.7.5)春原庄的管理人小姐</path>
   </subs>
   <subs>
+    <name_chs>春原庄的管理员小姐/春原庄的管理人</name_chs>
+    <name_cht>春原莊的管理員小姐/春原莊的管理人</name_cht>
+    <name_jp>すのはら荘の管理人さん</name_jp>
+    <name_en>Sunohara-sou no Kanrinin-san</name_en>
+    <name_rome>Sunohara-sō no Kanrinin-san</name_rome>
+    <time>2018-07-05T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>极影繁</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2018/(2018.7.5)春原庄的管理人小姐</path>
+  </subs>
+  <subs>
     <name_chs>昴宿七星</name_chs>
     <name_cht>昴宿七星</name_cht>
     <name_jp>七星のスバル</name_jp>
@@ -42793,21 +41575,6 @@ OP/ED制作：Seekladoom</desc>
     <type>animation</type>
     <source>BD</source>
     <sub_name>悠哈璃羽字幕社</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2018/(2018.7.6)遥的接球</path>
-  </subs>
-  <subs>
-    <name_chs>遥的接球</name_chs>
-    <name_cht>遙的接球</name_cht>
-    <name_jp>はるかなレシーブ</name_jp>
-    <name_en>Harukana Receive</name_en>
-    <name_rome>Harukana Reshību</name_rome>
-    <time>2018-07-06T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>轻之国度字幕组</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -43519,21 +42286,6 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2019/(2019.1.2)盾之勇者成名录</path>
   </subs>
   <subs>
-    <name_chs>盾之勇者成名录</name_chs>
-    <name_cht>盾之勇者成名錄</name_cht>
-    <name_jp>盾の勇者の成り上がり</name_jp>
-    <name_en>The Rising of the Shield Hero</name_en>
-    <name_rome>Tate no Yuusha no Nariagari</name_rome>
-    <time>2019-01-02T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>【桜都字幕组&amp;FS-Raw】</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2019/(2019.1.2)盾之勇者成名录</path>
-  </subs>
-  <subs>
     <name_chs>玛娜利亚魔法学院/ 巴哈姆特之怒 Manaria Friends</name_chs>
     <name_cht>瑪娜莉亞魔法學院/ 巴哈姆特之怒 Manaria Friends</name_cht>
     <name_jp>マナリアフレンズ</name_jp>
@@ -44053,21 +42805,6 @@ OP/ED制作：Seekladoom</desc>
     <type>animation</type>
     <source>BD</source>
     <sub_name>铃风字幕组</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2019/(2019.10.2)这个勇者明明超强却过分慎重</path>
-  </subs>
-  <subs>
-    <name_chs>这个勇者明明超强却过分慎重</name_chs>
-    <name_cht>這個勇者明明超TUEEE卻過度謹慎</name_cht>
-    <name_jp>この勇者が俺TUEEEくせに慎重すぎる</name_jp>
-    <name_en>Cautious Hero: The Hero Is Overpowered but Overly Cautious</name_en>
-    <name_rome>Kono Yūsha ga Ore Tsuē Kuse ni Shinchō Sugiru</name_rome>
-    <time>2019-10-02T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>BD</source>
-    <sub_name>铃风字幕组「这个勇者明明超强却过度谨慎」</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -44894,21 +43631,6 @@ OP/ED制作：Seekladoom</desc>
     <source>BD</source>
     <sub_name>轻之国度字幕组</sub_name>
     <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2019/(2019.4.5)一个人的○○小日子</path>
-  </subs>
-  <subs>
-    <name_chs>一个人的○○小日子</name_chs>
-    <name_cht>一個人的○○小日子</name_cht>
-    <name_jp>ひとりぼっちの○○生活</name_jp>
-    <name_en>Hitori Bocchi no Marumaru Seikatsu</name_en>
-    <name_rome>Hitori Bocchi no Marumaru Seikatsu</name_rome>
-    <time>2019-04-05T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>TV</source>
-    <sub_name>手抄字幕</sub_name>
-    <extension />
     <providers />
     <desc />
     <path>animation/2019/(2019.4.5)一个人的○○小日子</path>
@@ -46189,6 +44911,36 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2019/(2019.7.6)满月之战</path>
   </subs>
   <subs>
+    <name_chs>擅长捉弄人的高木同学 第二季</name_chs>
+    <name_cht>擅長捉弄人的高木同學 第二季</name_cht>
+    <name_jp>からかい上手の高木さん②</name_jp>
+    <name_en>Teasing Master Takagi-san: Season 2</name_en>
+    <name_rome>Karakai Jouzu no Takagi-san 2</name_rome>
+    <time>2019-07-07T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>千夏字幕组</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2019/(2019.7.7)擅长捉弄人的高木同学 第二季</path>
+  </subs>
+  <subs>
+    <name_chs>擅长捉弄人的高木同学 第二季</name_chs>
+    <name_cht>擅長捉弄人的高木同學 第二季</name_cht>
+    <name_jp>からかい上手の高木さん②</name_jp>
+    <name_en>Teasing Master Takagi-san: Season 2</name_en>
+    <name_rome>Karakai Jouzu no Takagi-san 2</name_rome>
+    <time>2019-07-07T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>悠哈璃羽字幕社</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2019/(2019.7.7)擅长捉弄人的高木同学 第二季</path>
+  </subs>
+  <subs>
     <name_chs>海盗战记</name_chs>
     <name_cht>海盜戰記</name_cht>
     <name_jp>ヴィンランド・サガ</name_jp>
@@ -46699,6 +45451,21 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2019/(2019.9.6)紫罗兰永恒花园外传：永远与自动手记人偶</path>
   </subs>
   <subs>
+    <name_chs>排球少年 TO THE TOP</name_chs>
+    <name_cht>排球少年 TO THE TOP</name_cht>
+    <name_jp>ハイキュー!! TO THE TOP</name_jp>
+    <name_en>Haikyuu!! To the Top</name_en>
+    <name_rome>Haikyuu!! To the Top</name_rome>
+    <time>2020-01-10T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>诸神字幕组</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2020/(2020.1.10)排球少年 TO THE TOP</path>
+  </subs>
+  <subs>
     <name_chs>某科学的超电磁炮T(第3季)</name_chs>
     <name_cht>某科學的超電磁炮T(第3季)</name_cht>
     <name_jp>とある科学の超電磁砲T</name_jp>
@@ -47194,6 +45961,21 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2020/(2020.10.1)寒蝉鸣泣之时 业</path>
   </subs>
   <subs>
+    <name_chs>寒蝉鸣泣之时 业</name_chs>
+    <name_cht>寒蟬鳴泣之時 業/暮蟬悲鳴時 業</name_cht>
+    <name_jp>ひぐらしのなく頃に業</name_jp>
+    <name_en>Higurashi: When They Cry Gou</name_en>
+    <name_rome>Higurashi no Naku Koro ni Gou</name_rome>
+    <time>2020-10-01T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>极影</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2020/(2020.10.1)寒蝉鸣泣之时 业</path>
+  </subs>
+  <subs>
     <name_chs>体操武士</name_chs>
     <name_cht>體操武士</name_cht>
     <name_jp>体操ザムライ</name_jp>
@@ -47389,6 +46171,21 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2020/(2020.10.2)突击莉莉 Assault Lily BOUQUET</path>
   </subs>
   <subs>
+    <name_chs>突击莉莉 Assault Lily BOUQUET</name_chs>
+    <name_cht>突擊莉莉 Assault Lily BOUQUET</name_cht>
+    <name_jp>アサルトリリィ</name_jp>
+    <name_en>Assault Lily</name_en>
+    <name_rome>Assault Lily Bouquet</name_rome>
+    <time>2020-10-02T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>喵萌奶茶屋</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2020/(2020.10.2)突击莉莉 Assault Lily BOUQUET</path>
+  </subs>
+  <subs>
     <name_chs>魔女之旅</name_chs>
     <name_cht>魔女之旅</name_cht>
     <name_jp>魔女の旅々</name_jp>
@@ -47432,6 +46229,21 @@ OP/ED制作：Seekladoom</desc>
     <providers />
     <desc />
     <path>animation/2020/(2020.10.2)魔女之旅</path>
+  </subs>
+  <subs>
+    <name_chs>龙与魔女</name_chs>
+    <name_cht>龍與魔女</name_cht>
+    <name_jp>バーン・ザ・ウィッチ</name_jp>
+    <name_en>BURN THE WITCH</name_en>
+    <name_rome>BURN THE WITCH</name_rome>
+    <time>2020-10-02T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>Nekomoe kissaten</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2020/(2020.10.2)龙与魔女</path>
   </subs>
   <subs>
     <name_chs>龙与魔女</name_chs>
@@ -47824,6 +46636,21 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2020/(2020.2.29)白箱 剧场版</path>
   </subs>
   <subs>
+    <name_chs>白箱 剧场版</name_chs>
+    <name_cht>白箱 劇場版</name_cht>
+    <name_jp>映画：劇場版「SHIROBAKO」</name_jp>
+    <name_en>Shirobako the Movie</name_en>
+    <name_rome>Gekijouban Shirobako</name_rome>
+    <time>2020-02-29T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>喵萌-VCBS</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2020/(2020.2.29)白箱 剧场版</path>
+  </subs>
+  <subs>
     <name_chs>PSYCHO-PASS心理测量者3：FIRST INSPECTOR</name_chs>
     <name_cht>PSYCHO-PASS心理測量者3：FIRST INSPECTOR</name_cht>
     <name_jp>映画：PSYCHO-PASS サイコパス 3 FIRST INSPECTOR</name_jp>
@@ -48109,6 +46936,21 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2020/(2020.4.8)噬血狂袭 IV</path>
   </subs>
   <subs>
+    <name_chs>寒蝉鸣泣之时 卒</name_chs>
+    <name_cht>寒蟬鳴泣之時 卒/暮蟬悲鳴時 卒</name_cht>
+    <name_jp>ひぐらしのなく頃に卒</name_jp>
+    <name_en>Higurashi: When They Cry Sotsu</name_en>
+    <name_rome>Higurashi no Naku Koro ni Sotsu</name_rome>
+    <time>2020-07-01T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>Sub</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2020/(2020.7.1)寒蝉鸣泣之时 卒</path>
+  </subs>
+  <subs>
     <name_chs>宇崎学妹想要玩！</name_chs>
     <name_cht>宇崎學妹想要玩！</name_cht>
     <name_jp>宇崎ちゃんは遊びたい！</name_jp>
@@ -48379,6 +47221,21 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2020/(2020.8.15)Fate／Stay Night ~Heaven's Feel~ III.spring song</path>
   </subs>
   <subs>
+    <name_chs>少女☆歌剧 Revue Starlight RONDO·RONDO·RONDO</name_chs>
+    <name_cht>少女☆歌劇 Revue Starlight RONDO·RONDO·RONDO</name_cht>
+    <name_jp>少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド</name_jp>
+    <name_en>Shoujo Kageki Revue Starlight: Rondo Rondo Rondo</name_en>
+    <name_rome>Shoujo Kageki Revue Starlight: Rondo Rondo Rondo</name_rome>
+    <time>2020-08-07T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>自制</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2020/(2020.8.7)少女☆歌剧 Revue Starlight RONDO·RONDO·RONDO</path>
+  </subs>
+  <subs>
     <name_chs>海边的异邦人</name_chs>
     <name_cht>海邊的異邦人</name_cht>
     <name_jp>海辺のエトランゼ</name_jp>
@@ -48422,6 +47279,36 @@ OP/ED制作：Seekladoom</desc>
     <providers />
     <desc />
     <path>animation/2020/(2020.9.18)剧场版 紫罗兰永恒花园</path>
+  </subs>
+  <subs>
+    <name_chs>剧场版 妄想学生会2</name_chs>
+    <name_cht>劇場版 妄想學生會2</name_cht>
+    <name_jp>劇場版 生徒会役員共2</name_jp>
+    <name_en>Gekijouban Seitokai Yakuindomo 2</name_en>
+    <name_rome>Gekijouban Seitokai Yakuindomo 2</name_rome>
+    <time>2021-01-01T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>野生菌字幕组&amp;届恋字幕组</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.1.1)剧场版 妄想学生会2</path>
+  </subs>
+  <subs>
+    <name_chs>境界触发者 第二季</name_chs>
+    <name_cht>境界觸發者 第二季</name_cht>
+    <name_jp>ワールドトリガー 2ndシーズン</name_jp>
+    <name_en>World Trigger 2nd Season</name_en>
+    <name_rome>World Trigger 2nd Season</name_rome>
+    <time>2021-01-10T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>咪梦字幕组</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.1.10)境界触发者 第二季</path>
   </subs>
   <subs>
     <name_chs>怪物事变</name_chs>
@@ -48544,6 +47431,21 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2021/(2021.1.13)记录的地平线 圆桌崩坏</path>
   </subs>
   <subs>
+    <name_chs>BACK ARROW/巴克 亚罗</name_chs>
+    <name_cht>BACK ARROW/巴克 亞羅</name_cht>
+    <name_jp>バック・アロウ</name_jp>
+    <name_en>BACK ARROW</name_en>
+    <name_rome>BACK ARROW</name_rome>
+    <time>2021-01-18T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>喵萌</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.1.18)BACK ARROW</path>
+  </subs>
+  <subs>
     <name_chs>planetarian 星之梦 ~ 雪景球 ~</name_chs>
     <name_cht>planetarian 星之夢 ~ 雪景球 ~</name_cht>
     <name_jp>planetarian ~雪圈球（スノーグローブ）~</name_jp>
@@ -48572,6 +47474,21 @@ OP/ED制作：Seekladoom</desc>
     <providers />
     <desc />
     <path>animation/2021/(2021.1.20)剧场版：星之梦 ~ 雪景球 ~</path>
+  </subs>
+  <subs>
+    <name_chs>赛马娘 Pretty Derby Season 2(第2季)</name_chs>
+    <name_cht>賽馬娘 Pretty Derby Season 2(第2季)</name_cht>
+    <name_jp>ウマ娘 プリティーダービー S2</name_jp>
+    <name_en>Uma Musume Pretty Derby S2</name_en>
+    <name_rome>Uma Musume Pretty Derby S2</name_rome>
+    <time>2021-01-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[FLsnow]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.1.4)赛马娘 S2</path>
   </subs>
   <subs>
     <name_chs>里世界郊游/里世界远足</name_chs>
@@ -48709,6 +47626,111 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2021/(2021.1.9)工作细胞！！</path>
   </subs>
   <subs>
+    <name_chs>前辈有够烦/关于前辈很烦人的事</name_chs>
+    <name_cht>前輩有夠煩/關於前輩很煩人的事</name_cht>
+    <name_jp>先輩がうざい後輩の話</name_jp>
+    <name_en>My Senpai Is Annoying</name_en>
+    <name_rome>Senpai ga Uzai Kouhai no Hanashi</name_rome>
+    <time>2021-10-10T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>动漫国字幕组</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.10.10)关于前辈很烦人的事</path>
+  </subs>
+  <subs>
+    <name_chs>结城友奈是勇者 -大满开之章-</name_chs>
+    <name_cht>結城友奈是勇者 -大滿開之章-</name_cht>
+    <name_jp>結城友奈は勇者である -大満開の章-</name_jp>
+    <name_en>Yuki Yuna Is a Hero: The Great Mankai Chapter</name_en>
+    <name_rome>Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou</name_rome>
+    <time>2021-10-02T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>Yusyabu&amp;LoliHouse</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.10.2)结城友奈是勇者 -大满开之章-</path>
+  </subs>
+  <subs>
+    <name_chs>结城友奈是勇者 -大满开之章-</name_chs>
+    <name_cht>結城友奈是勇者 -大滿開之章-</name_cht>
+    <name_jp>結城友奈は勇者である -大満開の章-</name_jp>
+    <name_en>Yuki Yuna Is a Hero: The Great Mankai Chapter</name_en>
+    <name_rome>Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou</name_rome>
+    <time>2021-10-02T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>赞州中学勇者部</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.10.2)结城友奈是勇者 -大满开之章-</path>
+  </subs>
+  <subs>
+    <name_chs>魔法科高中的劣等生 追忆篇</name_chs>
+    <name_cht>魔法科高中的劣等生 追憶篇</name_cht>
+    <name_jp>魔法科高校の劣等生 追憶編</name_jp>
+    <name_en>Mahouka Koukou no Rettousei ~Tsuioku Hen~</name_en>
+    <name_rome>Mahouka Koukou no Rettousei ~Tsuioku Hen~</name_rome>
+    <time>2021-12-31T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>ASS</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.12.31)魔法科高中的劣等生 追忆篇</path>
+  </subs>
+  <subs>
+    <name_chs>魔法科高中的劣等生 追忆篇</name_chs>
+    <name_cht>魔法科高中的劣等生 追憶篇</name_cht>
+    <name_jp>魔法科高校の劣等生 追憶編</name_jp>
+    <name_en>Mahouka Koukou no Rettousei ~Tsuioku Hen~</name_en>
+    <name_rome>Mahouka Koukou no Rettousei ~Tsuioku Hen~</name_rome>
+    <time>2021-12-31T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>ReinForce</sub_name>
+    <extension>.ass;.txt</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.12.31)魔法科高中的劣等生 追忆篇</path>
+  </subs>
+  <subs>
+    <name_chs>魔法科高中的劣等生 追忆篇</name_chs>
+    <name_cht>魔法科高中的劣等生 追憶篇</name_cht>
+    <name_jp>魔法科高校の劣等生 追憶編</name_jp>
+    <name_en>Mahouka Koukou no Rettousei ~Tsuioku Hen~</name_en>
+    <name_rome>Mahouka Koukou no Rettousei ~Tsuioku Hen~</name_rome>
+    <time>2021-12-31T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[DMG&amp;SumiSora&amp;LoliHouse][Mahouka_Koukou_no_Rettousei_Tsuioku-hen][SP][Subtitles]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.12.31)魔法科高中的劣等生 追忆篇</path>
+  </subs>
+  <subs>
+    <name_chs>魔法科高中的劣等生 追忆篇</name_chs>
+    <name_cht>魔法科高中的劣等生 追憶篇</name_cht>
+    <name_jp>魔法科高校の劣等生 追憶編</name_jp>
+    <name_en>Mahouka Koukou no Rettousei ~Tsuioku Hen~</name_en>
+    <name_rome>Mahouka Koukou no Rettousei ~Tsuioku Hen~</name_rome>
+    <time>2021-12-31T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[NC-Raws] 魔法科高中的劣等生 追忆篇 - 01 [B-Global][WEB-DL][1080p][AVC AAC][Mult</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.12.31)魔法科高中的劣等生 追忆篇</path>
+  </subs>
+  <subs>
     <name_chs>ARIA The CREPUSCOLO/水星领航员 The CREPUSCOLO</name_chs>
     <name_cht>ARIA The CREPUSCOLO/水星領航員 The CREPUSCOLO</name_cht>
     <name_jp>ARIA The CREPUSCOLO</name_jp>
@@ -48769,6 +47791,126 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2021/(2021.4.1)哥斯拉：奇异点</path>
   </subs>
   <subs>
+    <name_chs>不要欺负我，长瀞同学</name_chs>
+    <name_cht>不要欺負我，長瀞同學</name_cht>
+    <name_jp>イジらないで、長瀞さん</name_jp>
+    <name_en>Don't Toy With Me, Miss Nagatoro</name_en>
+    <name_rome>Ijiranaide Nagatoro-san</name_rome>
+    <time>2021-04-10T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>iQIYI 简繁</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.4.10)不要欺负我，长瀞同学</path>
+  </subs>
+  <subs>
+    <name_chs>不要欺负我，长瀞同学</name_chs>
+    <name_cht>不要欺負我，長瀞同學</name_cht>
+    <name_jp>イジらないで、長瀞さん</name_jp>
+    <name_en>Don't Toy With Me, Miss Nagatoro</name_en>
+    <name_rome>Ijiranaide Nagatoro-san</name_rome>
+    <time>2021-04-10T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>SC</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.4.10)不要欺负我，长瀞同学</path>
+  </subs>
+  <subs>
+    <name_chs />
+    <name_cht />
+    <name_jp />
+    <name_en />
+    <name_rome />
+    <time>2021-04-11T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>悠哈璃羽字幕社</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.4.11)影宅</path>
+  </subs>
+  <subs>
+    <name_chs>青梅竹马绝对不会输的恋爱喜剧</name_chs>
+    <name_cht>青梅竹馬絕對不會輸的戀愛喜劇</name_cht>
+    <name_jp>幼なじみが絶対に負けないラブコメ</name_jp>
+    <name_en>Osananajimi ga Zettai ni Makenai LoveCome</name_en>
+    <name_rome>Osananajimi ga Zettai ni Makenai LoveCome</name_rome>
+    <time>2021-04-14T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Airota]</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.4.14)青梅竹马绝对不会输的恋爱喜剧</path>
+  </subs>
+  <subs>
+    <name_chs>SSSS.电光机王</name_chs>
+    <name_cht>SSSS.電光機王</name_cht>
+    <name_jp>SSSS.DYNAZENON</name_jp>
+    <name_en>SSSS.Dynazenon</name_en>
+    <name_rome>SSSS.Dynazenon</name_rome>
+    <time>2021-04-02T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>星空字幕组</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.4.2)SSSS.电光机王</path>
+  </subs>
+  <subs>
+    <name_chs>薇薇 -萤石眼之歌-</name_chs>
+    <name_cht>薇薇 -螢石眼之歌</name_cht>
+    <name_jp>Vivy -Fluorite Eye's Song-</name_jp>
+    <name_en>Vivy: Fluorite Eye`s Song</name_en>
+    <name_rome>Vivy: Fluorite Eye`s Song</name_rome>
+    <time>2021-04-03T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>喵萌奶茶屋</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.4.3)薇薇 -萤石眼之歌-</path>
+  </subs>
+  <subs>
+    <name_chs>战斗员派遣中！</name_chs>
+    <name_cht>戰鬥員派遣中！</name_cht>
+    <name_jp>戦闘員, 派遣します!</name_jp>
+    <name_en>Combatants Will Be Dispatched!</name_en>
+    <name_rome>Sentouin, Haken Shimasu!</name_rome>
+    <time>2021-04-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>NC-Raws</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.4.4)战斗员派遣中！</path>
+  </subs>
+  <subs>
+    <name_chs>Odd Taxi/奇巧计程车</name_chs>
+    <name_cht>Odd Taxi/奇巧計程車</name_cht>
+    <name_jp>ODD TAXI/オッドタクシー</name_jp>
+    <name_en>Odd Taxi</name_en>
+    <name_rome>Odd Taxi</name_rome>
+    <time>2021-04-06T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>手抄巴哈</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.4.6)Odd Taxi／奇巧计程车</path>
+  </subs>
+  <subs>
     <name_chs>本田小狼与我</name_chs>
     <name_cht>本田小狼與我</name_cht>
     <name_jp>スーパーカブ</name_jp>
@@ -48797,6 +47939,441 @@ OP/ED制作：Seekladoom</desc>
     <providers />
     <desc />
     <path>animation/2021/(2021.4.8)佐贺偶像是传奇 复仇</path>
+  </subs>
+  <subs>
+    <name_chs>剧场版 少女☆歌剧 Revue Starlight</name_chs>
+    <name_cht>劇場版 少女☆歌劇 Revue Starlight</name_cht>
+    <name_jp>劇場版 少女☆歌劇 レヴュースタァライト</name_jp>
+    <name_en>Gekijouban Shoujo Kageki Revue Starlight</name_en>
+    <name_rome>Gekijouban Shoujo Kageki Revue Starlight</name_rome>
+    <time>2021-06-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>广州观影会</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.6.4)剧场版 少女☆歌剧 Revue Starlight</path>
+  </subs>
+  <subs>
+    <name_chs>剧场版 少女☆歌剧 Revue Starlight</name_chs>
+    <name_cht>劇場版 少女☆歌劇 Revue Starlight</name_cht>
+    <name_jp>劇場版 少女☆歌劇 レヴュースタァライト</name_jp>
+    <name_en>Gekijouban Shoujo Kageki Revue Starlight</name_en>
+    <name_rome>Gekijouban Shoujo Kageki Revue Starlight</name_rome>
+    <time>2021-06-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>樱都字幕组</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.6.4)剧场版 少女☆歌剧 Revue Starlight</path>
+  </subs>
+  <subs>
+    <name_chs>剧场版 少女☆歌剧 Revue Starlight</name_chs>
+    <name_cht>劇場版 少女☆歌劇 Revue Starlight</name_cht>
+    <name_jp>劇場版 少女☆歌劇 レヴュースタァライト</name_jp>
+    <name_en>Gekijouban Shoujo Kageki Revue Starlight</name_en>
+    <name_rome>Gekijouban Shoujo Kageki Revue Starlight</name_rome>
+    <time>2021-06-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>自制</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.6.4)剧场版 少女☆歌剧 Revue Starlight</path>
+  </subs>
+  <subs>
+    <name_chs>剧场版 希德尼娅的骑士 编织爱的行星</name_chs>
+    <name_cht>劇場版 希德尼婭的騎士 編織愛的行星</name_cht>
+    <name_jp>シドニアの騎士 あいつむぐほし</name_jp>
+    <name_en>Knights of Sidonia: Love Woven in the Stars</name_en>
+    <name_rome>Sidonia no Kishi: Ai Tsumugu Hoshi</name_rome>
+    <time>2021-06-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>个译</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.6.4)剧场版 希德尼娅的骑士 编织爱的行星</path>
+  </subs>
+  <subs>
+    <name_chs>剧场版 希德尼娅的骑士 编织爱的行星</name_chs>
+    <name_cht>劇場版 希德尼婭的騎士 編織愛的行星</name_cht>
+    <name_jp>シドニアの騎士 あいつむぐほし</name_jp>
+    <name_en>Knights of Sidonia: Love Woven in the Stars</name_en>
+    <name_rome>Sidonia no Kishi: Ai Tsumugu Hoshi</name_rome>
+    <time>2021-06-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>手抄</sub_name>
+    <extension>.ass;.txt</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.6.4)剧场版 希德尼娅的骑士 编织爱的行星</path>
+  </subs>
+  <subs>
+    <name_chs>酷爱电影的庞波小姐</name_chs>
+    <name_cht>酷愛電影的龐波小姐</name_cht>
+    <name_jp>映画大好きポンポさん</name_jp>
+    <name_en>Eiga Daisuki Pompo-san</name_en>
+    <name_rome>Eiga Daisuki Pompo-san</name_rome>
+    <time>2021-06-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>动漫国</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.6.4)酷爱电影的庞波小姐</path>
+  </subs>
+  <subs>
+    <name_chs>酷爱电影的庞波小姐</name_chs>
+    <name_cht>酷愛電影的龐波小姐</name_cht>
+    <name_jp>映画大好きポンポさん</name_jp>
+    <name_en>Eiga Daisuki Pompo-san</name_en>
+    <name_rome>Eiga Daisuki Pompo-san</name_rome>
+    <time>2021-06-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>手抄</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.6.4)酷爱电影的庞波小姐</path>
+  </subs>
+  <subs>
+    <name_chs>漂流少年</name_chs>
+    <name_cht>漂流少年</name_cht>
+    <name_jp>サニーボーイ</name_jp>
+    <name_en>Sonny Boy</name_en>
+    <name_rome>Sonny Boy</name_rome>
+    <time>2021-07-15T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>喵萌奶茶屋</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.15)漂流少年</path>
+  </subs>
+  <subs>
+    <name_chs>漂流少年</name_chs>
+    <name_cht>漂流少年</name_cht>
+    <name_jp>サニーボーイ</name_jp>
+    <name_en>Sonny Boy</name_en>
+    <name_rome>Sonny Boy</name_rome>
+    <time>2021-07-15T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>星空字幕组&amp;SweetSub</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.15)漂流少年</path>
+  </subs>
+  <subs>
+    <name_chs>平稳世代的韦驮天们</name_chs>
+    <name_cht>平穩時代的韋陀天們</name_cht>
+    <name_jp>平穏世代の韋駄天達</name_jp>
+    <name_en>The Idaten Deities Know Only Peace</name_en>
+    <name_rome>Heion Sedai no Idaten-tachi</name_rome>
+    <time>2021-07-23T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>sub</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.23)平稳世代的韦驮天们</path>
+  </subs>
+  <subs>
+    <name_chs>歌剧少女！！</name_chs>
+    <name_cht>歌劇少女</name_cht>
+    <name_jp>かげきしょうじょ!!</name_jp>
+    <name_en>Kageki Shojo!!</name_en>
+    <name_rome>Kageki Shojo!!</name_rome>
+    <time>2021-07-03T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>喵萌奶茶屋</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.3)歌剧少女！！</path>
+  </subs>
+  <subs>
+    <name_chs>精灵幻想记</name_chs>
+    <name_cht>精靈幻想記</name_cht>
+    <name_jp>精霊幻想記</name_jp>
+    <name_en>Seirei Gensouki: Spirit Chronicles</name_en>
+    <name_rome>Seirei Gensouki</name_rome>
+    <time>2021-07-05T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[LoliHouse] Seirei Gensouki - Subtitles</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.5)精灵幻想记</path>
+  </subs>
+  <subs>
+    <name_chs>精灵幻想记</name_chs>
+    <name_cht>精靈幻想記</name_cht>
+    <name_jp>精霊幻想記</name_jp>
+    <name_en>Seirei Gensouki: Spirit Chronicles</name_en>
+    <name_rome>Seirei Gensouki</name_rome>
+    <time>2021-07-05T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Moozzi2] Seirei Gensouki [SP04] Mini Anime (BD 1920x1080 x265-10Bit Flac)</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.5)精灵幻想记</path>
+  </subs>
+  <subs>
+    <name_chs>精灵幻想记</name_chs>
+    <name_cht>精靈幻想記</name_cht>
+    <name_jp>精霊幻想記</name_jp>
+    <name_en>Seirei Gensouki: Spirit Chronicles</name_en>
+    <name_rome>Seirei Gensouki</name_rome>
+    <time>2021-07-05T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>精靈幻想記Specials</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.5)精灵幻想记</path>
+  </subs>
+  <subs>
+    <name_chs>精灵幻想记</name_chs>
+    <name_cht>精靈幻想記</name_cht>
+    <name_jp>精霊幻想記</name_jp>
+    <name_en>Seirei Gensouki: Spirit Chronicles</name_en>
+    <name_rome>Seirei Gensouki</name_rome>
+    <time>2021-07-05T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>精靈幻想記（僅限港澳台地區）</sub_name>
+    <extension>.srt</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.5)精灵幻想记</path>
+  </subs>
+  <subs>
+    <name_chs>小林家的龙女仆S/小林家的妹抖龙S</name_chs>
+    <name_cht>小林家的龍女仆S/小林家的妹抖龍S</name_cht>
+    <name_jp>小林さんちのメイドラゴンS</name_jp>
+    <name_en>Miss Kobayashi`s Dragon Maid S</name_en>
+    <name_rome>Kobayashi-san Chi no Maidragon S</name_rome>
+    <time>2021-07-08T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>OVA</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.8)小林家的龙女仆S</path>
+  </subs>
+  <subs>
+    <name_chs>小林家的龙女仆S/小林家的妹抖龙S</name_chs>
+    <name_cht>小林家的龍女仆S/小林家的妹抖龍S</name_cht>
+    <name_jp>小林さんちのメイドラゴンS</name_jp>
+    <name_en>Miss Kobayashi`s Dragon Maid S</name_en>
+    <name_rome>Kobayashi-san Chi no Maidragon S</name_rome>
+    <time>2021-07-08T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>悠哈璃羽字幕社</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.8)小林家的龙女仆S</path>
+  </subs>
+  <subs>
+    <name_chs>异世界迷宫黑心企业/转生到异世界也要996/暗黑企业的迷宫</name_chs>
+    <name_cht>異世界迷宮黑心企業/轉生到異世界也要996/暗黑企業的迷宮</name_cht>
+    <name_jp>迷宮ブラックカンパニー</name_jp>
+    <name_en>The Dungeon of Black Company</name_en>
+    <name_rome>Meikyuu Black Company</name_rome>
+    <time>2021-07-09T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>KTXP</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.9)异世界迷宫黑心企业</path>
+  </subs>
+  <subs>
+    <name_chs>异世界迷宫黑心企业/转生到异世界也要996/暗黑企业的迷宫</name_chs>
+    <name_cht>異世界迷宮黑心企業/轉生到異世界也要996/暗黑企業的迷宮</name_cht>
+    <name_jp>迷宮ブラックカンパニー</name_jp>
+    <name_en>The Dungeon of Black Company</name_en>
+    <name_rome>Meikyuu Black Company</name_rome>
+    <time>2021-07-09T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>Nekomoe kissaten</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.9)异世界迷宫黑心企业</path>
+  </subs>
+  <subs>
+    <name_chs>迦希女王不会放弃/贾希大人不气馁</name_chs>
+    <name_cht>賈希大人不氣餒</name_cht>
+    <name_jp>ジャヒー様はくじけない!</name_jp>
+    <name_en>The Great Jahy Will Not Be Defeated!</name_en>
+    <name_rome>Jahy-sama wa Kujikenai!</name_rome>
+    <time>2021-08-01T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>喵萌奶茶屋</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.8.1)迦希女王不会放弃／贾希大人不气馁</path>
+  </subs>
+  <subs>
+    <name_chs>迦希女王不会放弃/贾希大人不气馁</name_chs>
+    <name_cht>賈希大人不氣餒</name_cht>
+    <name_jp>ジャヒー様はくじけない!</name_jp>
+    <name_en>The Great Jahy Will Not Be Defeated!</name_en>
+    <name_rome>Jahy-sama wa Kujikenai!</name_rome>
+    <time>2021-08-01T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>桜都字幕组</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.8.1)迦希女王不会放弃／贾希大人不气馁</path>
+  </subs>
+  <subs>
+    <name_chs>魔法纪录 魔法少女小圆外传 2nd Season -觉醒前夜-</name_chs>
+    <name_cht>魔法紀錄 魔法少女小圓外傳 2nd Season -覺醒前夜-</name_cht>
+    <name_jp>マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-</name_jp>
+    <name_en>Magia Record: Puella Magi Madoka Magica Side Story 2nd Season</name_en>
+    <name_rome>~Magia Record~ Mahou Shoujo Madoka Magika Gaiden 2</name_rome>
+    <time>2021-08-01T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>ASS</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.8.1)魔法纪录 魔法少女小圆外传 2nd Season -觉醒前夜-</path>
+  </subs>
+  <subs>
+    <name_chs>魔法纪录 魔法少女小圆外传 2nd Season -觉醒前夜-</name_chs>
+    <name_cht>魔法紀錄 魔法少女小圓外傳 2nd Season -覺醒前夜-</name_cht>
+    <name_jp>マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-</name_jp>
+    <name_en>Magia Record: Puella Magi Madoka Magica Side Story 2nd Season</name_en>
+    <name_rome>~Magia Record~ Mahou Shoujo Madoka Magika Gaiden 2</name_rome>
+    <time>2021-08-01T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Yusyabu&amp;LoliHouse] Magia Record S2</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.8.1)魔法纪录 魔法少女小圆外传 2nd Season -觉醒前夜-</path>
+  </subs>
+  <subs>
+    <name_chs>魔法纪录 魔法少女小圆外传 2nd Season -觉醒前夜-</name_chs>
+    <name_cht>魔法紀錄 魔法少女小圓外傳 2nd Season -覺醒前夜-</name_cht>
+    <name_jp>マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-</name_jp>
+    <name_en>Magia Record: Puella Magi Madoka Magica Side Story 2nd Season</name_en>
+    <name_rome>~Magia Record~ Mahou Shoujo Madoka Magika Gaiden 2</name_rome>
+    <time>2021-08-01T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Yusyabu&amp;LoliHouse] Magia Record S2[BDRip 1080p HEVC-10bit FLAC]</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.8.1)魔法纪录 魔法少女小圆外传 2nd Season -觉醒前夜-</path>
+  </subs>
+  <subs>
+    <name_chs>魔法纪录 魔法少女小圆外传 2nd Season -觉醒前夜-</name_chs>
+    <name_cht>魔法紀錄 魔法少女小圓外傳 2nd Season -覺醒前夜-</name_cht>
+    <name_jp>マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-</name_jp>
+    <name_en>Magia Record: Puella Magi Madoka Magica Side Story 2nd Season</name_en>
+    <name_rome>~Magia Record~ Mahou Shoujo Madoka Magika Gaiden 2</name_rome>
+    <time>2021-08-01T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>魔法紀錄 魔法少女小圓外傳 第二季 -覺醒前夜-（僅限港澳台地區）</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.8.1)魔法纪录 魔法少女小圆外传 2nd Season -觉醒前夜-</path>
+  </subs>
+  <subs>
+    <name_chs>水星领航员/ARIA The CREPUSCOLO</name_chs>
+    <name_cht>水星領航員/ARIA The CREPUSCOLO</name_cht>
+    <name_jp>ARIA The CREPUSCOLO</name_jp>
+    <name_en>ARIA The CREPUSCOLO</name_en>
+    <name_rome>ARIA The CREPUSCOLO</name_rome>
+    <time>2021-08-18T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>ARIA The CREPUSCOLO</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.8.18)ARIA The CREPUSCOLO</path>
+  </subs>
+  <subs>
+    <name_chs>地球外少年少女</name_chs>
+    <name_cht>地球外少年少女</name_cht>
+    <name_jp>地球外少年少女</name_jp>
+    <name_en>The Orbital Children</name_en>
+    <name_rome>Chikyuugai Shounen Shoujo</name_rome>
+    <time>2022-01-28T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>SweetSub</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2022/(2022.1.28)地球外少年少女</path>
+  </subs>
+  <subs>
+    <name_chs>擅长捉弄人的高木同学 第三季</name_chs>
+    <name_cht>擅長捉弄人的高木同學 第三季</name_cht>
+    <name_jp>からかい上手の高木さん③</name_jp>
+    <name_en>Teasing Master Takagi-san: Season 3</name_en>
+    <name_rome>Karakai Jouzu no Takagi-san 3</name_rome>
+    <time>2022-01-08T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>悠哈璃羽字幕社</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2022/(2022.1.8)擅长捉弄人的高木同学 第三季</path>
+  </subs>
+  <subs>
+    <name_chs>擅长捉弄人的高木同学 第三季</name_chs>
+    <name_cht>擅長捉弄人的高木同學 第三季</name_cht>
+    <name_jp>からかい上手の高木さん③</name_jp>
+    <name_en>Teasing Master Takagi-san: Season 3</name_en>
+    <name_rome>Karakai Jouzu no Takagi-san 3</name_rome>
+    <time>2022-01-08T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>桜都字幕组</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2022/(2022.1.8)擅长捉弄人的高木同学 第三季</path>
   </subs>
   <subs>
     <name_chs>进击的巨人真人版 前篇</name_chs>
