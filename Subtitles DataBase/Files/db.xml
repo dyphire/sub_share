@@ -40416,6 +40416,21 @@ FOT-Skip Std B
     <path>animation/2018/(2018.4.21)吹响吧！上低音号 剧场版 莉兹与青鸟</path>
   </subs>
   <subs>
+    <name_chs>吹响吧！上低音号 剧场版 莉兹与青鸟</name_chs>
+    <name_cht>吹響吧！上低音號 劇場版 莉茲與青鳥</name_cht>
+    <name_jp>劇場版 響け！ 映画：リズと青い鳥</name_jp>
+    <name_en>Liz and the Blue Bird</name_en>
+    <name_rome>Gekijouban Hibike! Euphonium ~Mizore to Nozomi no Monogatari</name_rome>
+    <time>2018-04-21T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>录音台本注释版</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2018/(2018.4.21)吹响吧！上低音号 剧场版 莉兹与青鸟</path>
+  </subs>
+  <subs>
     <name_chs>东京喰种/东京食尸鬼:re(第3季)</name_chs>
     <name_cht>東京喰種/東京食尸鬼:re(第3季)</name_cht>
     <name_jp>東京喰種トーキョーグール:re</name_jp>
@@ -47386,6 +47401,21 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2021/(2021.1.12)奇蛋物语</path>
   </subs>
   <subs>
+    <name_chs>怪人开发部的黑井津</name_chs>
+    <name_cht>怪人開發部的黑井津</name_cht>
+    <name_jp>怪人開発部の黒井津さん</name_jp>
+    <name_en>Miss Kuroitsu from the Monster Development Department</name_en>
+    <name_rome>Kaijin Kaihatsubu no Kuroitsu-san</name_rome>
+    <time>2021-01-12T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>SweetSub</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.1.12)怪人开发部的黑井津</path>
+  </subs>
+  <subs>
     <name_chs>回复术士的重启人生(乳)</name_chs>
     <name_cht>回復術士的重啟人生(乳)</name_cht>
     <name_jp>回復術士のやり直し</name_jp>
@@ -47669,6 +47699,21 @@ OP/ED制作：Seekladoom</desc>
     <providers />
     <desc />
     <path>animation/2021/(2021.10.2)结城友奈是勇者 -大满开之章-</path>
+  </subs>
+  <subs>
+    <name_chs>境界触发者 第三季</name_chs>
+    <name_cht>境界觸發者 第三季</name_cht>
+    <name_jp>ワールドトリガー 3rdシーズン</name_jp>
+    <name_en>World Trigger 3rd Season</name_en>
+    <name_rome>World Trigger 3rd Season</name_rome>
+    <time>2021-10-09T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>爱奇艺手抄</sub_name>
+    <extension>.srt</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.10.9)境界触发者 第三季</path>
   </subs>
   <subs>
     <name_chs>魔法科高中的劣等生 追忆篇</name_chs>
