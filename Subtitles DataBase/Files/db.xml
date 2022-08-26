@@ -4723,6 +4723,21 @@ ZERO REQUIEM liwei5203@sosg@kf个人制作</desc>
     <time>2006-04-04T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
+    <sub_name>[未知 简][VCB-Studio] 寒蝉鸣泣之时 S1-S4 + OVAs Fin</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2006/(2006.4.4)寒蝉鸣泣之时</path>
+  </subs>
+  <subs>
+    <name_chs>寒蝉鸣泣之时</name_chs>
+    <name_cht>寒蟬鳴泣之時/暮蟬悲鳴時</name_cht>
+    <name_jp>ひぐらしのなく頃に</name_jp>
+    <name_en>When They Cry - Higurashi</name_en>
+    <name_rome>Higurashi no Naku Koro ni</name_rome>
+    <time>2006-04-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
     <sub_name>寒蝉鸣泣之时</sub_name>
     <extension>.ass</extension>
     <providers />
@@ -15734,7 +15749,7 @@ PS：部分修改内容提取或参考自千夏、动漫国等字幕组，在此
     <time>2012-01-06T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>[YYDM-11FANS]</sub_name>
+    <sub_name>VCB-Studio</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -22459,16 +22474,10 @@ K.N.L.A.万岁!二次元人民大团结万岁!</desc>
     <time>2013-07-04T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>[YYDM-11FANS]</sub_name>
+    <sub_name>VCB-Studio</sub_name>
     <extension>.ass</extension>
     <providers />
-    <desc>BIG5
-第二季字幕來源為傲嬌字幕組，歌詞除OP外皆採集自網絡翻譯，由於太多故不一一列出，如有冒犯尚請見諒。
-各話標題取自維基百科，如需轉載請註明來源為 A4@11FANS 感謝。
-
-GB
-第二季字幕来源为傲娇字幕组，歌词除OP外皆采集自网络翻译，由于太多故不一一列出，如有冒犯尚请见谅。
-各话标题取自维基百科，如需转载请注明来源为 A4@11FANS 感谢。</desc>
+    <desc />
     <path>animation/2013/(2013.7.4)战姬绝唱 G</path>
   </subs>
   <subs>
@@ -40997,6 +41006,21 @@ FOT-Skip Std B
     <time>2018-07-12T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
+    <sub_name>DMG&amp;MH&amp;VCB-Studio</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2018/(2018.7.12)少女☆歌剧Revue Starlight</path>
+  </subs>
+  <subs>
+    <name_chs>少女☆歌剧Revue Starlight</name_chs>
+    <name_cht>少女☆歌劇Revue Starlight</name_cht>
+    <name_jp>少女☆歌劇 レヴュー・スタァライト</name_jp>
+    <name_en>Girls' Opera Revue Starlight</name_en>
+    <name_rome>Shōjo Kageki Revyū Sutāraito</name_rome>
+    <time>2018-07-12T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
     <sub_name>OVA</sub_name>
     <extension>.ass</extension>
     <providers />
@@ -44896,6 +44920,21 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2019/(2019.7.6)君主·埃尔梅罗二世事件簿</path>
   </subs>
   <subs>
+    <name_chs>战姬绝唱SYMPHOGEAR XV</name_chs>
+    <name_cht>戰姬絕唱SYMPHOGEAR XV</name_cht>
+    <name_jp>戦姫絶唱シンフォギアXV</name_jp>
+    <name_en>Symphogear XV</name_en>
+    <name_rome>Senki Zesshou Symphogear XV</name_rome>
+    <time>2019-07-06T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>VCB-Studio</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2019/(2019.7.6)战姬绝唱SYMPHOGEAR XV</path>
+  </subs>
+  <subs>
     <name_chs>满月之战</name_chs>
     <name_cht>滿月之戰</name_cht>
     <name_jp>グランベルム</name_jp>
@@ -45886,6 +45925,81 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2020/(2020.1.6)别对映像研出手！</path>
   </subs>
   <subs>
+    <name_chs>房间露营△/室内露营△</name_chs>
+    <name_cht>房間露營△/室內露營△</name_cht>
+    <name_jp>へやキャン△</name_jp>
+    <name_en>Heya Camp△</name_en>
+    <name_rome>Heya Camp△</name_rome>
+    <time>2020-01-06T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>HeyaCamp</sub_name>
+    <extension>.ass;.txt</extension>
+    <providers />
+    <desc />
+    <path>animation/2020/(2020.1.6)房间露营△</path>
+  </subs>
+  <subs>
+    <name_chs>房间露营△/室内露营△</name_chs>
+    <name_cht>房間露營△/室內露營△</name_cht>
+    <name_jp>へやキャン△</name_jp>
+    <name_en>Heya Camp△</name_en>
+    <name_rome>Heya Camp△</name_rome>
+    <time>2020-01-06T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Airota&amp;Nekomoe kissaten]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2020/(2020.1.6)房间露营△</path>
+  </subs>
+  <subs>
+    <name_chs>房间露营△/室内露营△</name_chs>
+    <name_cht>房間露營△/室內露營△</name_cht>
+    <name_jp>へやキャン△</name_jp>
+    <name_en>Heya Camp△</name_en>
+    <name_rome>Heya Camp△</name_rome>
+    <time>2020-01-06T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[UHA-WINGS]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2020/(2020.1.6)房间露营△</path>
+  </subs>
+  <subs>
+    <name_chs>房间露营△/室内露营△</name_chs>
+    <name_cht>房間露營△/室內露營△</name_cht>
+    <name_jp>へやキャン△</name_jp>
+    <name_en>Heya Camp△</name_en>
+    <name_rome>Heya Camp△</name_rome>
+    <time>2020-01-06T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>室内露营（繁日双语）</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2020/(2020.1.6)房间露营△</path>
+  </subs>
+  <subs>
+    <name_chs>房间露营△/室内露营△</name_chs>
+    <name_cht>房間露營△/室內露營△</name_cht>
+    <name_jp>へやキャン△</name_jp>
+    <name_en>Heya Camp△</name_en>
+    <name_rome>Heya Camp△</name_rome>
+    <time>2020-01-06T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>房间露营△</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2020/(2020.1.6)房间露营△</path>
+  </subs>
+  <subs>
     <name_chs>BanG Dream! 3rd Season</name_chs>
     <name_cht>BanG Dream! 3rd Season</name_cht>
     <name_jp>BanG Dream! 3rd Season</name_jp>
@@ -46561,6 +46675,36 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2020/(2020.12.25)乔西的虎与鱼</path>
   </subs>
   <subs>
+    <name_chs>Fate/Grand Order 剧场版 -神圣圆桌领域卡美洛-</name_chs>
+    <name_cht>Fate/Grand Order 劇場版 -神圣圓桌領域卡美洛-</name_cht>
+    <name_jp>劇場版 Fate/Grand Order -神聖円卓領域キャメロット-</name_jp>
+    <name_en>Fate/Grand Order ~Shinsei Entaku Ryouiki Camelot~</name_en>
+    <name_rome>Fate/Grand Order ~Shinsei Entaku Ryouiki Camelot~</name_rome>
+    <time>2020-12-05T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[ReinForce]</sub_name>
+    <extension>.srt</extension>
+    <providers />
+    <desc />
+    <path>animation/2020/(2020.12.5)Fate／Grand Order 剧场版 -神圣圆桌领域卡美洛-</path>
+  </subs>
+  <subs>
+    <name_chs>Fate/Grand Order 剧场版 -神圣圆桌领域卡美洛-</name_chs>
+    <name_cht>Fate/Grand Order 劇場版 -神圣圓桌領域卡美洛-</name_cht>
+    <name_jp>劇場版 Fate/Grand Order -神聖円卓領域キャメロット-</name_jp>
+    <name_en>Fate/Grand Order ~Shinsei Entaku Ryouiki Camelot~</name_en>
+    <name_rome>Fate/Grand Order ~Shinsei Entaku Ryouiki Camelot~</name_rome>
+    <time>2020-12-05T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[UCCUSS] FGO6 [Sub TC SC][V2]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2020/(2020.12.5)Fate／Grand Order 剧场版 -神圣圆桌领域卡美洛-</path>
+  </subs>
+  <subs>
     <name_chs>进击的巨人 最终季</name_chs>
     <name_cht>進擊的巨人 最終季</name_cht>
     <name_jp>進撃の巨人 attack on titan The Final Season</name_jp>
@@ -46948,7 +47092,7 @@ OP/ED制作：Seekladoom</desc>
     <extension />
     <providers />
     <desc />
-    <path>animation/2020/(2020.4.8)噬血狂袭 IV</path>
+    <path>animation/2020/(2020.4.8)噬血狂袭 4 OVA</path>
   </subs>
   <subs>
     <name_chs>寒蝉鸣泣之时 卒</name_chs>
@@ -47349,6 +47493,21 @@ OP/ED制作：Seekladoom</desc>
     <time>2021-01-10T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
+    <sub_name>OAD</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.1.10)悠哉日常大王 Nonstop</path>
+  </subs>
+  <subs>
+    <name_chs>悠哉日常大王 Nonstop</name_chs>
+    <name_cht>悠哉日常大王 Nonstop</name_cht>
+    <name_jp>のんのんびより のんすとっぷ</name_jp>
+    <name_en>Non Non Biyori Nonstop</name_en>
+    <name_rome>Non Non Biyori Nonstop</name_rome>
+    <time>2021-01-10T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
     <sub_name>喵萌奶茶屋</sub_name>
     <extension>.ass</extension>
     <providers />
@@ -47399,21 +47558,6 @@ OP/ED制作：Seekladoom</desc>
     <providers />
     <desc />
     <path>animation/2021/(2021.1.12)奇蛋物语</path>
-  </subs>
-  <subs>
-    <name_chs>怪人开发部的黑井津</name_chs>
-    <name_cht>怪人開發部的黑井津</name_cht>
-    <name_jp>怪人開発部の黒井津さん</name_jp>
-    <name_en>Miss Kuroitsu from the Monster Development Department</name_en>
-    <name_rome>Kaijin Kaihatsubu no Kuroitsu-san</name_rome>
-    <time>2021-01-12T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>BD</source>
-    <sub_name>SweetSub</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2021/(2021.1.12)怪人开发部的黑井津</path>
   </subs>
   <subs>
     <name_chs>回复术士的重启人生(乳)</name_chs>
@@ -47611,6 +47755,81 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2021/(2021.1.8)弱角友崎同学</path>
   </subs>
   <subs>
+    <name_chs>转生成蜘蛛又怎样！</name_chs>
+    <name_cht>轉生成蜘蛛又怎樣！</name_cht>
+    <name_jp>蜘蛛ですが、なにか？</name_jp>
+    <name_en>So I'm a Spider, So What?</name_en>
+    <name_rome>Kumo desu ga, Nani ka</name_rome>
+    <time>2021-01-08T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Kumo Desu ga, Nanika][WEBRIP][01-24][GB BIG5][ASS][SUB]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.1.8)转生成蜘蛛又怎样！</path>
+  </subs>
+  <subs>
+    <name_chs>转生成蜘蛛又怎样！</name_chs>
+    <name_cht>轉生成蜘蛛又怎樣！</name_cht>
+    <name_jp>蜘蛛ですが、なにか？</name_jp>
+    <name_en>So I'm a Spider, So What?</name_en>
+    <name_rome>Kumo desu ga, Nani ka</name_rome>
+    <time>2021-01-08T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Moozzi2] Kumo Desu ga, Nanika</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.1.8)转生成蜘蛛又怎样！</path>
+  </subs>
+  <subs>
+    <name_chs>转生成蜘蛛又怎样！</name_chs>
+    <name_cht>轉生成蜘蛛又怎樣！</name_cht>
+    <name_jp>蜘蛛ですが、なにか？</name_jp>
+    <name_en>So I'm a Spider, So What?</name_en>
+    <name_rome>Kumo desu ga, Nani ka</name_rome>
+    <time>2021-01-08T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>转生成蜘蛛又怎样！</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.1.8)转生成蜘蛛又怎样！</path>
+  </subs>
+  <subs>
+    <name_chs>WIXOSS DIVA(A)LIVE(第5季)</name_chs>
+    <name_cht>WIXOSS DIVA(A)LIVE(第5季)</name_cht>
+    <name_jp>ウィクロス ディーヴァ アライブ</name_jp>
+    <name_en>WIXOSS Diva(A)LIVE</name_en>
+    <name_rome>WIXOSS Diva(A)LIVE</name_rome>
+    <time>2021-01-09T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[SweetSub] WIXOSS DIVA(A)LIVE [01-12].chs</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.1.9)WIXOSS DIVA(A)LIVE(S5)</path>
+  </subs>
+  <subs>
+    <name_chs>WIXOSS DIVA(A)LIVE(第5季)</name_chs>
+    <name_cht>WIXOSS DIVA(A)LIVE(第5季)</name_cht>
+    <name_jp>ウィクロス ディーヴァ アライブ</name_jp>
+    <name_en>WIXOSS Diva(A)LIVE</name_en>
+    <name_rome>WIXOSS Diva(A)LIVE</name_rome>
+    <time>2021-01-09T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[SweetSub] WIXOSS DIVA(A)LIVE [01-12].cht</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.1.9)WIXOSS DIVA(A)LIVE(S5)</path>
+  </subs>
+  <subs>
     <name_chs>堀与宫村</name_chs>
     <name_cht>堀與宮村</name_cht>
     <name_jp>ホリミヤ</name_jp>
@@ -47701,6 +47920,96 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2021/(2021.10.2)结城友奈是勇者 -大满开之章-</path>
   </subs>
   <subs>
+    <name_chs>刀剑神域剧场版 -进击篇- 无星之夜的咏叹调</name_chs>
+    <name_cht>刀劍神域劇場版 -進擊篇- 無星之夜的詠嘆調</name_cht>
+    <name_jp>劇場版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア</name_jp>
+    <name_en>Sword Art Online Progressive: Aria of a Starless Night</name_en>
+    <name_rome>Sword Art Online Progressive ~Hoshinaki Yoru no Aria~</name_rome>
+    <time>2021-10-30T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[DMG] ASS</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.10.30)刀剑神域剧场版 -进击篇- 无星之夜的咏叹调</path>
+  </subs>
+  <subs>
+    <name_chs>刀剑神域剧场版 -进击篇- 无星之夜的咏叹调</name_chs>
+    <name_cht>刀劍神域劇場版 -進擊篇- 無星之夜的詠嘆調</name_cht>
+    <name_jp>劇場版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア</name_jp>
+    <name_en>Sword Art Online Progressive: Aria of a Starless Night</name_en>
+    <name_rome>Sword Art Online Progressive ~Hoshinaki Yoru no Aria~</name_rome>
+    <time>2021-10-30T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[UHA-WINGS＆RATH]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.10.30)刀剑神域剧场版 -进击篇- 无星之夜的咏叹调</path>
+  </subs>
+  <subs>
+    <name_chs>刀剑神域剧场版 -进击篇- 无星之夜的咏叹调</name_chs>
+    <name_cht>刀劍神域劇場版 -進擊篇- 無星之夜的詠嘆調</name_cht>
+    <name_jp>劇場版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア</name_jp>
+    <name_en>Sword Art Online Progressive: Aria of a Starless Night</name_en>
+    <name_rome>Sword Art Online Progressive ~Hoshinaki Yoru no Aria~</name_rome>
+    <time>2021-10-30T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>字幕</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.10.30)刀剑神域剧场版 -进击篇- 无星之夜的咏叹调</path>
+  </subs>
+  <subs>
+    <name_chs>吸血鬼马上死/吸血鬼德拉克</name_chs>
+    <name_cht>吸血鬼馬上死/吸血鬼德拉克</name_cht>
+    <name_jp>吸血鬼すぐ死ぬ</name_jp>
+    <name_en>Kyuuketsuki Sugu Shinu</name_en>
+    <name_rome>Kyuuketsuki Sugu Shinu</name_rome>
+    <time>2021-10-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>BDrip</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.10.4)吸血鬼马上死</path>
+  </subs>
+  <subs>
+    <name_chs>吸血鬼马上死/吸血鬼德拉克</name_chs>
+    <name_cht>吸血鬼馬上死/吸血鬼德拉克</name_cht>
+    <name_jp>吸血鬼すぐ死ぬ</name_jp>
+    <name_en>Kyuuketsuki Sugu Shinu</name_en>
+    <name_rome>Kyuuketsuki Sugu Shinu</name_rome>
+    <time>2021-10-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>Web</source>
+    <sub_name>Webrip</sub_name>
+    <extension>.srt</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.10.4)吸血鬼马上死</path>
+  </subs>
+  <subs>
+    <name_chs>Muv-Luv Alternative</name_chs>
+    <name_cht>Muv-Luv Alternative</name_cht>
+    <name_jp>マブラヴ オルタネイティヴ</name_jp>
+    <name_en>Muv-Luv Alternative</name_en>
+    <name_rome>Muv-Luv Alternative</name_rome>
+    <time>2021-10-06T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[ReinForce]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.10.6)Muv-Luv Alternative</path>
+  </subs>
+  <subs>
     <name_chs>境界触发者 第三季</name_chs>
     <name_cht>境界觸發者 第三季</name_cht>
     <name_jp>ワールドトリガー 3rdシーズン</name_jp>
@@ -47710,10 +48019,25 @@ OP/ED制作：Seekladoom</desc>
     <type>animation</type>
     <source>BD</source>
     <sub_name>爱奇艺手抄</sub_name>
-    <extension>.srt</extension>
+    <extension>.ass</extension>
     <providers />
     <desc />
     <path>animation/2021/(2021.10.9)境界触发者 第三季</path>
+  </subs>
+  <subs>
+    <name_chs>少女与战车 最终章 第3话</name_chs>
+    <name_cht>少女與戰車 最終章 第3话</name_cht>
+    <name_jp>ガールズ&amp;パンツァー 最終章 第3話</name_jp>
+    <name_en>Girls und Panzer: Saishuushou</name_en>
+    <name_rome>Girls und Panzer: Saishuushou</name_rome>
+    <time>2021-12-24T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>sub</sub_name>
+    <extension>.ass;.srt;.txt</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.12.24)少女与战车 最终章 第3话</path>
   </subs>
   <subs>
     <name_chs>魔法科高中的劣等生 追忆篇</name_chs>
@@ -47774,6 +48098,66 @@ OP/ED制作：Seekladoom</desc>
     <providers />
     <desc />
     <path>animation/2021/(2021.12.31)魔法科高中的劣等生 追忆篇</path>
+  </subs>
+  <subs>
+    <name_chs>Princess Principal Crown Handler/公主代理人 皇冠操纵者</name_chs>
+    <name_cht>Princess Principal Crown Handler/公主代理人 皇冠操縱者</name_cht>
+    <name_jp>プリンセス·プリンシパル Crown Handler</name_jp>
+    <name_en>Princess Principal Crown Handler</name_en>
+    <name_rome>Princess Principal Crown Handler</name_rome>
+    <time>2021-02-11T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>01</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.2.11)Princess Principal Crown Handler</path>
+  </subs>
+  <subs>
+    <name_chs>Princess Principal Crown Handler/公主代理人 皇冠操纵者</name_chs>
+    <name_cht>Princess Principal Crown Handler/公主代理人 皇冠操縱者</name_cht>
+    <name_jp>プリンセス·プリンシパル Crown Handler</name_jp>
+    <name_en>Princess Principal Crown Handler</name_en>
+    <name_rome>Princess Principal Crown Handler</name_rome>
+    <time>2021-02-11T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>02</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.2.11)Princess Principal Crown Handler</path>
+  </subs>
+  <subs>
+    <name_chs>Princess Principal Crown Handler/公主代理人 皇冠操纵者</name_chs>
+    <name_cht>Princess Principal Crown Handler/公主代理人 皇冠操縱者</name_cht>
+    <name_jp>プリンセス·プリンシパル Crown Handler</name_jp>
+    <name_en>Princess Principal Crown Handler</name_en>
+    <name_rome>Princess Principal Crown Handler</name_rome>
+    <time>2021-02-11T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Airota&amp;LoliHouse]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.2.11)Princess Principal Crown Handler</path>
+  </subs>
+  <subs>
+    <name_chs>Princess Principal Crown Handler/公主代理人 皇冠操纵者</name_chs>
+    <name_cht>Princess Principal Crown Handler/公主代理人 皇冠操縱者</name_cht>
+    <name_jp>プリンセス·プリンシパル Crown Handler</name_jp>
+    <name_en>Princess Principal Crown Handler</name_en>
+    <name_rome>Princess Principal Crown Handler</name_rome>
+    <time>2021-02-11T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Team Shirohato&amp;LoliHouse]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.2.11)Princess Principal Crown Handler</path>
   </subs>
   <subs>
     <name_chs>ARIA The CREPUSCOLO/水星领航员 The CREPUSCOLO</name_chs>
@@ -47949,6 +48333,21 @@ OP/ED制作：Seekladoom</desc>
     <time>2021-04-06T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
+    <sub_name>喵萌奶茶屋</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.4.6)Odd Taxi／奇巧计程车</path>
+  </subs>
+  <subs>
+    <name_chs>Odd Taxi/奇巧计程车</name_chs>
+    <name_cht>Odd Taxi/奇巧計程車</name_cht>
+    <name_jp>ODD TAXI/オッドタクシー</name_jp>
+    <name_en>Odd Taxi</name_en>
+    <name_rome>Odd Taxi</name_rome>
+    <time>2021-04-06T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
     <sub_name>手抄巴哈</sub_name>
     <extension />
     <providers />
@@ -47984,6 +48383,21 @@ OP/ED制作：Seekladoom</desc>
     <providers />
     <desc />
     <path>animation/2021/(2021.4.8)佐贺偶像是传奇 复仇</path>
+  </subs>
+  <subs>
+    <name_chs>Fate/Grand Carnival</name_chs>
+    <name_cht>Fate/Grand Carnival</name_cht>
+    <name_jp>Fate/Grand Carnival</name_jp>
+    <name_en>Fate/Grand Carnival</name_en>
+    <name_rome>Fate/Grand Carnival</name_rome>
+    <time>2021-06-02T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>Fate Grand Carnival v2</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.6.2)Fate／Grand Carnival</path>
   </subs>
   <subs>
     <name_chs>剧场版 少女☆歌剧 Revue Starlight</name_chs>
@@ -48091,6 +48505,51 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2021/(2021.6.4)酷爱电影的庞波小姐</path>
   </subs>
   <subs>
+    <name_chs>寒蝉鸣泣之时 卒/暮蝉悲鸣时 卒</name_chs>
+    <name_cht>寒蟬鳴泣之時 卒/暮蟬悲鳴時 卒</name_cht>
+    <name_jp>ひぐらしのなく頃に卒</name_jp>
+    <name_en>Higurashi no Naku Koro ni Sotsu</name_en>
+    <name_rome>Higurashi no Naku Koro ni Sotsu</name_rome>
+    <time>2021-07-01T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>b站字幕</sub_name>
+    <extension>.srt</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.1)寒蝉鸣泣之时 卒</path>
+  </subs>
+  <subs>
+    <name_chs>寒蝉鸣泣之时 卒/暮蝉悲鸣时 卒</name_chs>
+    <name_cht>寒蟬鳴泣之時 卒/暮蟬悲鳴時 卒</name_cht>
+    <name_jp>ひぐらしのなく頃に卒</name_jp>
+    <name_en>Higurashi no Naku Koro ni Sotsu</name_en>
+    <name_rome>Higurashi no Naku Koro ni Sotsu</name_rome>
+    <time>2021-07-01T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>HigurashiGouSotsu</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.1)寒蝉鸣泣之时 卒</path>
+  </subs>
+  <subs>
+    <name_chs>寒蝉鸣泣之时 卒/暮蝉悲鸣时 卒</name_chs>
+    <name_cht>寒蟬鳴泣之時 卒/暮蟬悲鳴時 卒</name_cht>
+    <name_jp>ひぐらしのなく頃に卒</name_jp>
+    <name_en>Higurashi no Naku Koro ni Sotsu</name_en>
+    <name_rome>Higurashi no Naku Koro ni Sotsu</name_rome>
+    <time>2021-07-01T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Moozzi2]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.1)寒蝉鸣泣之时 卒</path>
+  </subs>
+  <subs>
     <name_chs>漂流少年</name_chs>
     <name_cht>漂流少年</name_cht>
     <name_jp>サニーボーイ</name_jp>
@@ -48121,6 +48580,21 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2021/(2021.7.15)漂流少年</path>
   </subs>
   <subs>
+    <name_chs>突击莉莉 Fruits</name_chs>
+    <name_cht>突擊莉莉 Fruits</name_cht>
+    <name_jp>アサルトリリィ Fruits</name_jp>
+    <name_en>Assault Lily Bouquet Fruits</name_en>
+    <name_rome>Assault Lily Bouquet Fruits</name_rome>
+    <time>2021-07-22T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Nekomoe kissaten] Assault Lily Fruits [BDRip][Subtitles]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.22)突击莉莉 Fruits</path>
+  </subs>
+  <subs>
     <name_chs>平稳世代的韦驮天们</name_chs>
     <name_cht>平穩時代的韋陀天們</name_cht>
     <name_jp>平穏世代の韋駄天達</name_jp>
@@ -48149,6 +48623,81 @@ OP/ED制作：Seekladoom</desc>
     <providers />
     <desc />
     <path>animation/2021/(2021.7.3)歌剧少女！！</path>
+  </subs>
+  <subs>
+    <name_chs>魔法科高中的优等生</name_chs>
+    <name_cht>魔法科高中的優等生</name_cht>
+    <name_jp>魔法科高校の優等生</name_jp>
+    <name_en>The Honor at Magic High School</name_en>
+    <name_rome>Mahouka Koukou no Yuutousei</name_rome>
+    <time>2021-07-03T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>B-Global</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.3)魔法科高中的优等生</path>
+  </subs>
+  <subs>
+    <name_chs>魔法科高中的优等生</name_chs>
+    <name_cht>魔法科高中的優等生</name_cht>
+    <name_jp>魔法科高校の優等生</name_jp>
+    <name_en>The Honor at Magic High School</name_en>
+    <name_rome>Mahouka Koukou no Yuutousei</name_rome>
+    <time>2021-07-03T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>DMG&amp;SumiSora</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.3)魔法科高中的优等生</path>
+  </subs>
+  <subs>
+    <name_chs>魔法科高中的优等生</name_chs>
+    <name_cht>魔法科高中的優等生</name_cht>
+    <name_jp>魔法科高校の優等生</name_jp>
+    <name_en>The Honor at Magic High School</name_en>
+    <name_rome>Mahouka Koukou no Yuutousei</name_rome>
+    <time>2021-07-03T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>LoliHouse</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.3)魔法科高中的优等生</path>
+  </subs>
+  <subs>
+    <name_chs>Fate/Grand Order -终局特异点 冠位时间神殿所罗门-</name_chs>
+    <name_cht>Fate/Grand Order -終局特異點 冠位時間神殿所羅門-</name_cht>
+    <name_jp>Fate/Grand Order -終局特異点 冠位時間神殿 ソロモン-</name_jp>
+    <name_en>Fate/Grand Order ~Shuukyoku Tokuiten Kan'i Jikan Shinden Solomon~</name_en>
+    <name_rome>Fate/Grand Order ~Shuukyoku Tokuiten Kan'i Jikan Shinden Solomon~</name_rome>
+    <time>2021-07-30T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[LowPower-Raws]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.30)Fate／Grand Order -终局特异点 冠位时间神殿所罗门-</path>
+  </subs>
+  <subs>
+    <name_chs>Fate/Grand Order -终局特异点 冠位时间神殿所罗门-</name_chs>
+    <name_cht>Fate/Grand Order -終局特異點 冠位時間神殿所羅門-</name_cht>
+    <name_jp>Fate/Grand Order -終局特異点 冠位時間神殿 ソロモン-</name_jp>
+    <name_en>Fate/Grand Order ~Shuukyoku Tokuiten Kan'i Jikan Shinden Solomon~</name_en>
+    <name_rome>Fate/Grand Order ~Shuukyoku Tokuiten Kan'i Jikan Shinden Solomon~</name_rome>
+    <time>2021-07-30T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Moozzi2]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.7.30)Fate／Grand Order -终局特异点 冠位时间神殿所罗门-</path>
   </subs>
   <subs>
     <name_chs>精灵幻想记</name_chs>
@@ -48376,6 +48925,111 @@ OP/ED制作：Seekladoom</desc>
     <path>animation/2021/(2021.8.18)ARIA The CREPUSCOLO</path>
   </subs>
   <subs>
+    <name_chs>黄金拼图 Thank You!!</name_chs>
+    <name_cht>黃金拼圖 Thank You!!</name_cht>
+    <name_jp>きんいろモザイク Thank You!!</name_jp>
+    <name_en>Kin-iro Mosaic - Thank You!!</name_en>
+    <name_rome>Kin-iro Mosaic - Thank You!!</name_rome>
+    <time>2021-08-20T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>Nekomoekissaten-by jajauiopopiuert</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.8.20)黄金拼图 Thank You!!</path>
+  </subs>
+  <subs>
+    <name_chs>剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 无名的少女</name_chs>
+    <name_cht>劇場版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 無名的少女</name_cht>
+    <name_jp>Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女</name_jp>
+    <name_en>Fate/Kaleid Liner Prisma Illya ~Licht Namae no Nai Shoujo~</name_en>
+    <name_rome>Fate/Kaleid Liner Prisma Illya ~Licht Namae no Nai Shoujo~</name_rome>
+    <time>2021-08-27T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Mabors-Sub&amp;VCB-Studio] Fate Kaleid Liner Prisma Illya Licht Namae no Nai Shoujo</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.8.27)剧场版 魔法少女伊莉雅：无名少女</path>
+  </subs>
+  <subs>
+    <name_chs>剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 无名的少女</name_chs>
+    <name_cht>劇場版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 無名的少女</name_cht>
+    <name_jp>Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女</name_jp>
+    <name_en>Fate/Kaleid Liner Prisma Illya ~Licht Namae no Nai Shoujo~</name_en>
+    <name_rome>Fate/Kaleid Liner Prisma Illya ~Licht Namae no Nai Shoujo~</name_rome>
+    <time>2021-08-27T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Mabors-Sub][Fate kaleid liner purisma Illya Licht namae no nai shojo][MOVIE][BD</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.8.27)剧场版 魔法少女伊莉雅：无名少女</path>
+  </subs>
+  <subs>
+    <name_chs>剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 无名的少女</name_chs>
+    <name_cht>劇場版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 無名的少女</name_cht>
+    <name_jp>Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女</name_jp>
+    <name_en>Fate/Kaleid Liner Prisma Illya ~Licht Namae no Nai Shoujo~</name_en>
+    <name_rome>Fate/Kaleid Liner Prisma Illya ~Licht Namae no Nai Shoujo~</name_rome>
+    <time>2021-08-27T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[Moozzi2] Fate Kaleid Liner Prisma Illya Licht Namae no Nai Shoujo [Subs TC-TW]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.8.27)剧场版 魔法少女伊莉雅：无名少女</path>
+  </subs>
+  <subs>
+    <name_chs>剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 无名的少女</name_chs>
+    <name_cht>劇場版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 無名的少女</name_cht>
+    <name_jp>Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女</name_jp>
+    <name_en>Fate/Kaleid Liner Prisma Illya ~Licht Namae no Nai Shoujo~</name_en>
+    <name_rome>Fate/Kaleid Liner Prisma Illya ~Licht Namae no Nai Shoujo~</name_rome>
+    <time>2021-08-27T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>劇場版プリズマ☆イリヤ Licht 名前の無い少女.friDay影音繁中字幕</sub_name>
+    <extension>.ass;.srt</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.8.27)剧场版 魔法少女伊莉雅：无名少女</path>
+  </subs>
+  <subs>
+    <name_chs>剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 无名的少女</name_chs>
+    <name_cht>劇場版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 無名的少女</name_cht>
+    <name_jp>Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女</name_jp>
+    <name_en>Fate/Kaleid Liner Prisma Illya ~Licht Namae no Nai Shoujo~</name_en>
+    <name_rome>Fate/Kaleid Liner Prisma Illya ~Licht Namae no Nai Shoujo~</name_rome>
+    <time>2021-08-27T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>幻之字幕组</sub_name>
+    <extension>.sup</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.8.27)剧场版 魔法少女伊莉雅：无名少女</path>
+  </subs>
+  <subs>
+    <name_chs>剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 无名的少女</name_chs>
+    <name_cht>劇場版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 無名的少女</name_cht>
+    <name_jp>Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女</name_jp>
+    <name_en>Fate/Kaleid Liner Prisma Illya ~Licht Namae no Nai Shoujo~</name_en>
+    <name_rome>Fate/Kaleid Liner Prisma Illya ~Licht Namae no Nai Shoujo~</name_rome>
+    <time>2021-08-27T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>魔法少女☆伊莉雅：Licht無名的少女.friDay.zh-Hant.Delay 2s 101ms (2101ms)</sub_name>
+    <extension>.srt</extension>
+    <providers />
+    <desc />
+    <path>animation/2021/(2021.8.27)剧场版 魔法少女伊莉雅：无名少女</path>
+  </subs>
+  <subs>
     <name_chs>地球外少年少女</name_chs>
     <name_cht>地球外少年少女</name_cht>
     <name_jp>地球外少年少女</name_jp>
@@ -48389,6 +49043,21 @@ OP/ED制作：Seekladoom</desc>
     <providers />
     <desc />
     <path>animation/2022/(2022.1.28)地球外少年少女</path>
+  </subs>
+  <subs>
+    <name_chs>怪人开发部的黑井津</name_chs>
+    <name_cht>怪人開發部的黑井津</name_cht>
+    <name_jp>怪人開発部の黒井津さん</name_jp>
+    <name_en>Miss Kuroitsu from the Monster Development Department</name_en>
+    <name_rome>Kaijin Kaihatsubu no Kuroitsu-san</name_rome>
+    <time>2022-01-08T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>哔哩哔哩港澳台</sub_name>
+    <extension>.srt</extension>
+    <providers />
+    <desc />
+    <path>animation/2022/(2022.1.8)怪人开发部的黑井津</path>
   </subs>
   <subs>
     <name_chs>擅长捉弄人的高木同学 第三季</name_chs>
@@ -48419,6 +49088,111 @@ OP/ED制作：Seekladoom</desc>
     <providers />
     <desc />
     <path>animation/2022/(2022.1.8)擅长捉弄人的高木同学 第三季</path>
+  </subs>
+  <subs>
+    <name_chs>进击的巨人 最终季 Part.2</name_chs>
+    <name_cht>進擊的巨人 最終季 Part.2</name_cht>
+    <name_jp>進撃の巨人 attack on titan The Final Season Part.2</name_jp>
+    <name_en>Attack on Titan The Final Season Part.2</name_en>
+    <name_rome>Shingeki no Kyojin: The Final Season Part.2</name_rome>
+    <time>2022-01-09T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>桜都字幕组</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2022/(2022.1.9)进击的巨人 最终季 Part.2</path>
+  </subs>
+  <subs>
+    <name_chs>进击的巨人 最终季 Part.2</name_chs>
+    <name_cht>進擊的巨人 最終季 Part.2</name_cht>
+    <name_jp>進撃の巨人 attack on titan The Final Season Part.2</name_jp>
+    <name_en>Attack on Titan The Final Season Part.2</name_en>
+    <name_rome>Shingeki no Kyojin: The Final Season Part.2</name_rome>
+    <time>2022-01-09T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>豌豆字幕组</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2022/(2022.1.9)进击的巨人 最终季 Part.2</path>
+  </subs>
+  <subs>
+    <name_chs>噬血狂袭5 OVA(乳)</name_chs>
+    <name_cht>噬血狂襲5 OVA(乳)</name_cht>
+    <name_jp>ストライク・ザ・ブラッド V OVA</name_jp>
+    <name_en>Strike The Blood V OVA</name_en>
+    <name_rome>Strike The Blood V OVA</name_rome>
+    <time>2022-03-30T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>[ReinForce] Strike the Blood V (BDRip 1920x1080 x264 FLAC)</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2022/(2022.3.30)噬血狂袭5 OVA</path>
+  </subs>
+  <subs>
+    <name_chs>魔法纪录 魔法少女小圆外传 Final Season -浅梦的黎明-</name_chs>
+    <name_cht>魔法紀錄 魔法少女小圓外傳 Final Season -淺夢的黎明-</name_cht>
+    <name_jp>マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁-</name_jp>
+    <name_en>Magia Record: Puella Magi Madoka Magica Side Story Final SEASON</name_en>
+    <name_rome>~Magia Record~ Mahou Shoujo Madoka Magika Gaiden ~Asaki Yume no Akatsuki~</name_rome>
+    <time>2022-04-03T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>sc</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2022/(2022.4.3)魔法纪录 魔法少女小圆外传 Final Season -浅梦的黎明-</path>
+  </subs>
+  <subs>
+    <name_chs>魔法纪录 魔法少女小圆外传 Final Season -浅梦的黎明-</name_chs>
+    <name_cht>魔法紀錄 魔法少女小圓外傳 Final Season -淺夢的黎明-</name_cht>
+    <name_jp>マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁-</name_jp>
+    <name_en>Magia Record: Puella Magi Madoka Magica Side Story Final SEASON</name_en>
+    <name_rome>~Magia Record~ Mahou Shoujo Madoka Magika Gaiden ~Asaki Yume no Akatsuki~</name_rome>
+    <time>2022-04-03T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>tc</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2022/(2022.4.3)魔法纪录 魔法少女小圆外传 Final Season -浅梦的黎明-</path>
+  </subs>
+  <subs>
+    <name_chs>魔法纪录 魔法少女小圆外传 Final Season -浅梦的黎明-</name_chs>
+    <name_cht>魔法紀錄 魔法少女小圓外傳 Final Season -淺夢的黎明-</name_cht>
+    <name_jp>マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁-</name_jp>
+    <name_en>Magia Record: Puella Magi Madoka Magica Side Story Final SEASON</name_en>
+    <name_rome>~Magia Record~ Mahou Shoujo Madoka Magika Gaiden ~Asaki Yume no Akatsuki~</name_rome>
+    <time>2022-04-03T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>TV</source>
+    <sub_name>[SweetSub&amp;EnkanRec&amp;LoliHouse]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2022/(2022.4.3)魔法纪录 魔法少女小圆外传 Final Season -浅梦的黎明-</path>
+  </subs>
+  <subs>
+    <name_chs>恋爱要在世界征服后/爱在征服世界后</name_chs>
+    <name_cht>戀愛要在世界征服后</name_cht>
+    <name_jp>恋は世界征服のあとで</name_jp>
+    <name_en>Love After World Domination</name_en>
+    <name_rome>Koi wa Sekai Seifuku no Ato de</name_rome>
+    <time>2022-04-08T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>喵萌奶茶屋</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2022/(2022.4.8)恋爱要在世界征服后</path>
   </subs>
   <subs>
     <name_chs>进击的巨人真人版 前篇</name_chs>
