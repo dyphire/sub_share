@@ -5240,6 +5240,21 @@ ZERO REQUIEM liwei5203@sosg@kf个人制作</desc>
     <path>animation/2007/(2007.10.6)悠久之翼 第一季</path>
   </subs>
   <subs>
+    <name_chs>南家三姐妹</name_chs>
+    <name_cht>南家三姐妹</name_cht>
+    <name_jp>みなみけ</name_jp>
+    <name_en>Minami-ke</name_en>
+    <name_rome>Minami-ke</name_rome>
+    <time>2007-10-07T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>华盟 简</sub_name>
+    <extension />
+    <providers />
+    <desc />
+    <path>animation/2007/(2007.10.7)南家三姐妹</path>
+  </subs>
+  <subs>
     <name_chs>骑士战场/PRISM ARK(乳)</name_chs>
     <name_cht>騎士戰場/PRISM ARK(乳)</name_cht>
     <name_jp>PRISM ARK</name_jp>
@@ -22474,7 +22489,7 @@ K.N.L.A.万岁!二次元人民大团结万岁!</desc>
     <time>2013-07-04T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>VCB-Studio</sub_name>
+    <sub_name>傲娇字幕组 简繁</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -37688,7 +37703,7 @@ FOT-Skip Std B
     <time>2017-07-01T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>字幕</sub_name>
+    <sub_name>漫游&amp;S.O.N.G. 简</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -44928,7 +44943,7 @@ OP/ED制作：Seekladoom</desc>
     <time>2019-07-06T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>VCB-Studio</sub_name>
+    <sub_name>漫游&amp;S.O.N.G. 简</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -49178,6 +49193,21 @@ OP/ED制作：Seekladoom</desc>
     <providers />
     <desc />
     <path>animation/2022/(2022.4.3)魔法纪录 魔法少女小圆外传 Final Season -浅梦的黎明-</path>
+  </subs>
+  <subs>
+    <name_chs>派对浪客诸葛孔明/派对咖孔明</name_chs>
+    <name_cht>派對浪客諸葛孔明/派對咖孔明</name_cht>
+    <name_jp>パリピ孔明</name_jp>
+    <name_en>Ya Boy Kongming!</name_en>
+    <name_rome>Paripi Koumei</name_rome>
+    <time>2022-04-05T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>喵萌奶茶屋</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2022/(2022.4.5)派对浪客诸葛孔明</path>
   </subs>
   <subs>
     <name_chs>恋爱要在世界征服后/爱在征服世界后</name_chs>
