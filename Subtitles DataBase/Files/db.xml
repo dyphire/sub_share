@@ -15235,21 +15235,6 @@ PS：部分修改内容提取或参考自千夏、动漫国等字幕组，在此
     <time>2011-07-04T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>[Airota][Yuruyuri][SUB.TC]</sub_name>
-    <extension>.ass</extension>
-    <providers />
-    <desc />
-    <path>animation/2011/(2011.7.4)摇曳百合</path>
-  </subs>
-  <subs>
-    <name_chs>摇曳百合(第1季)</name_chs>
-    <name_cht>搖曳百合(第1季)</name_cht>
-    <name_jp>ゆるゆり</name_jp>
-    <name_en>Yuruyuri</name_en>
-    <name_rome>Yuruyuri</name_rome>
-    <time>2011-07-04T00:00:00+08:00</time>
-    <type>animation</type>
-    <source>BD</source>
     <sub_name>[VCB-Studio] Yuru Yuri [SP][Ma10p_1080p][x265_flac]</sub_name>
     <extension>.ass</extension>
     <providers />
@@ -15281,6 +15266,36 @@ PS：部分修改内容提取或参考自千夏、动漫国等字幕组，在此
     <type>animation</type>
     <source>BD</source>
     <sub_name>[摇曳百合Yuru_yuri][BDRIP][1-12 SP][雪酷字幕]</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2011/(2011.7.4)摇曳百合</path>
+  </subs>
+  <subs>
+    <name_chs>摇曳百合(第1季)</name_chs>
+    <name_cht>搖曳百合(第1季)</name_cht>
+    <name_jp>ゆるゆり</name_jp>
+    <name_en>Yuruyuri</name_en>
+    <name_rome>Yuruyuri</name_rome>
+    <time>2011-07-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>千夏修改版 繁</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2011/(2011.7.4)摇曳百合</path>
+  </subs>
+  <subs>
+    <name_chs>摇曳百合(第1季)</name_chs>
+    <name_cht>搖曳百合(第1季)</name_cht>
+    <name_jp>ゆるゆり</name_jp>
+    <name_en>Yuruyuri</name_en>
+    <name_rome>Yuruyuri</name_rome>
+    <time>2011-07-04T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>华盟</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -18681,7 +18696,7 @@ zx353分享了猫物语（白）前3集副音轨字幕
     <time>2012-07-02T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>[Airota][Yuruyuri♪♪][SUB.TC]</sub_name>
+    <sub_name>千夏</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -18696,7 +18711,22 @@ zx353分享了猫物语（白）前3集副音轨字幕
     <time>2012-07-02T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>千夏</sub_name>
+    <sub_name>千夏修改版 繁</sub_name>
+    <extension>.ass</extension>
+    <providers />
+    <desc />
+    <path>animation/2012/(2012.7.2)摇曳百合♪♪(第2季)</path>
+  </subs>
+  <subs>
+    <name_chs>摇曳百合♪♪(第2季)</name_chs>
+    <name_cht>摇曳百合♪♪(第2季)</name_cht>
+    <name_jp>ゆるゆり♪♪</name_jp>
+    <name_en>Yuru Yuri II</name_en>
+    <name_rome>Yuru Yuri II</name_rome>
+    <time>2012-07-02T00:00:00+08:00</time>
+    <type>animation</type>
+    <source>BD</source>
+    <sub_name>雪酷</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
@@ -25566,7 +25596,7 @@ BIG5
     <time>2014-11-29T00:00:00+08:00</time>
     <type>animation</type>
     <source>BD</source>
-    <sub_name>摇曳百合 夏日时光！[Airota&amp;ANK-Raws] ゆるゆり なちゅやちゅみ! (SUB)</sub_name>
+    <sub_name>千夏修改版 繁</sub_name>
     <extension>.ass</extension>
     <providers />
     <desc />
